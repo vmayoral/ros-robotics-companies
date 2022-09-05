@@ -1,0 +1,30 @@
+name: Automatically README shield with number of ROS companies
+on: push
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    # Build
+    - name: Build documentation
+      run: |
+        ./scripts/update_readme.bash README.md
+
+    # Prepare for deployment
+    - name: Deployment
+      run: |
+        mkdir /tmp/deploy
+        cp -r . /tmp/deploy
+        mv /tmp/deploy deploy
+
+    # Deploy
+    - name: Push
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: main # The branch name where you want to push the assets
+        FOLDER: deploy   # The directory where your assets are generated
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
+        MESSAGE: "GitHub Actions: update shield ({sha}) {msg}" # The commit message
