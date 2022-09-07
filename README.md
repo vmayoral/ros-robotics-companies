@@ -1,11 +1,11 @@
-![](https://img.shields.io/badge/ros%20robotics%20companies-347-4d4cf5.svg)
+![](https://img.shields.io/badge/ros%20robotics%20companies-347-4d4cf5.svg) ![](https://img.shields.io/badge/acquired%20ros%20robotics%20companies-9-00a679.svg) ![](https://img.shields.io/badge/inactive%20ros%20robotics%20companies-1-ffc24c.svg) ![](https://img.shields.io/badge/closed%20ros%20robotics%20companies-2-e10015.svg)
 
 # ROS Robotics Companies
 
 [**Active companies**](#active-companies) ┃ [<ins>Acquired, closed or inactive</ins>](#companies-acquired-closed-or-inactive) | [Contribute](#contribute)
 
 
-A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products or to offer services. Ordered *alphabetically*.
+A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products or to offer services. Ordered alphabetically.
 
 
 
