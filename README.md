@@ -87,6 +87,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Concurrent Real-Time](https://concurrent-rt.com/) | Provider of high-performance, real-time Linux software, hardware and professional services. Using ROS with RedHawk Linux on the NVIDIA Jetson TX2 [^110]. | 1966 |
 | [Continental](https://www.continental.com/en/) | Offers safe, efficient, intelligent and affordable solutions for vehicles, machines, traffic and transportation. It's known to be building autonomous mobility solutions on top of ROS 2 forks[^208][^209]. | 1871 |
 | [CrossWing](http://www.crosswing.com) | Create a customizable robotics platform. A planning and control system for CrossWing Nav2[^57]robots (see [`catnav2`](https://github.com/timtro/catnav2)). | 2006 | 
+| [Cyberbotics](https://cyberbotics.com) | Develop the Webots[^220] open-source robot simulator, including ROS[^221] and ROS 2[^222] interfaces, robot simulations on the web at webots.cloud[^223] and robotbenchmark.net[^224]. | 1998 |
 | [Danish Technological Institute](http://www.dmri.com) | Develop advanced robot technology to solve industrial and societal challenges. Our focus is on combining new research and existing technologies to create robotic solutions. A ROS-Industrial component for defining, configuring, and using patterns in industrial robot applications (see [`pattern_manager`](https://github.com/teknologisk-institut/pattern_manager)). | 1954 |
 | [Dataspeed](https://www.dataspeedinc.com/) | Offer engineered hardware and software tools to researchers and developers working on mobility and robotics solutions. Dataspeed's ADAS Kit (Advanced Driver Assistance Systems) provides research and development platform. ROS CAN driver for Dataspeed Drive-by-Wire Kit (see [`dataspeed_can_driver`](https://github.com/VT-ASIM-LAB/dataspeed_can_driver))[^24]. | 2008 | 
 | [Delta Electronics](https://www.deltaww.com/en-US/index) | Manufacture custom power supply solutions for telecommunications, IT, industrial automation, and automotive applications. The company is [currently member](https://rosindustrial.org/ric/current-members/#delta-electronics) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^137]. | 1994 | 
@@ -595,3 +596,8 @@ Send a Pull Request with additions, modifications or removals. Make sure to hint
 [^218]: Introducing the Kria Robotics Stack for Hardware Acceleration in Robotics
  https://www.xilinx.com/about/blogs/adaptable-advantage-blog/2021/introducing-the-kria-robotics-stack-for-hardware-acceleration-in.html
 [^219]: AMD to Acquire Xilinx, Creating the Industry’s High Performance Computing Leader https://ir.amd.com/news-events/press-releases/detail/977/amd-to-acquire-xilinx-creating-the-industrys-high
+[^220]: Webots open-source robot simulator https://github.com/cyberbotics/webots
+[^221]: Webots ROS 1 interface https://github.com/cyberbotics/webots_ros
+[^222]: Webots ROS 2 interface https://github.com/cyberbotics/webots_ros2
+[^223]: Robot simulations on the web https://webots.cloud
+[^224]: Robot benchmarks on the web https://robotbenchmark.net
