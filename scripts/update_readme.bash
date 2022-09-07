@@ -10,7 +10,7 @@ acquired_companies=$(expr $(awk '/\*\*Acquired\*\*/ {a[$0]++} END{for(i in a) pr
 
 # Update README's first line with new shields
 tail -n +2 $1 > $1.aux && \
-    (echo "![](https://img.shields.io/badge/ros%20robotics%20companies-$companies-4d4cf5.svg) ![](https://img.shields.io/badge/acquired%20ros%20robotics%20companies-$acquired_companies-00a679.svg) ![](https://img.shields.io/badge/inactive%20ros%20robotics%20companies-$inactive_companies-ffc24c.svg) ![](https://img.shields.io/badge/closed%20ros%20robotics%20companies-$closed_companies-e10015.svg)" && cat $1.aux) > $1.aux2 && \
+    (echo "[![](https://img.shields.io/badge/ros%20robotics%20companies-$companies-4d4cf5.svg)](https://github.com/vmayoral/ros-robotics-companies#active-companies) [![](https://img.shields.io/badge/acquired%20ros%20robotics%20companies-$acquired_companies-00a679.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive) [![](https://img.shields.io/badge/inactive%20ros%20robotics%20companies-$inactive_companies-ffc24c.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive) [![](https://img.shields.io/badge/closed%20ros%20robotics%20companies-$closed_companies-e10015.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive)" && cat $1.aux) > $1.aux2 && \
     rm $1 $1.aux && mv $1.aux2 $1
 
 # summary
