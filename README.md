@@ -602,4 +602,3 @@ Send a Pull Request with additions, modifications or removals. Make sure to hint
 [^222]: Webots ROS 2 interface https://github.com/cyberbotics/webots_ros2
 [^223]: Robot simulations on the web https://webots.cloud
 [^224]: Robot benchmarks on the web https://robotbenchmark.net
-
