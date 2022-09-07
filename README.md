@@ -350,6 +350,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [ZF](https://www.zf.com/mobile/en/homepage/homepage.html) | Company supplies systems for passenger cars, commercial vehicles and industrial technology in four technology domains: Vehicle Motion Control, Integrated Safety, Automated Driving, and Electric Mobility. They are known to be using ROS 2 forks[^210] to develop software. | 1915 | 
 | [ZMP](https://www.zmp.co.jp/en) | Provide robot infrastructure,  autonomous vehicles[^53], automotive technology and sensing technology[^54]. ROS Nodes for RoboCar[^55] (see [`robocar110_ros`](https://github.com/zmp/robocar110_ros)). | 2001 | 
 | [ZVISION](http://www.zvision.xyz) | Provide [automotive-grade](http://www.zvision.xyz/en/Solution/index.aspx) solid-state LiDAR solution for autonomous driving applications. ROS driver for ZVISION Lidar (see [`zvision_ros_driver`](https://github.com/ZVISION-lidar/zvision_ros_driver)). | 2017 |
+| [ArcheRobotics](http://archerobotics.com/) | Arche Robotics is a robotics startup which builds modular robots for B2B. Our unique ‘Robot as a Service’ (RaaS) business model allows for customers to focus on services to improve their business metrics, rather than dealing with high entry barriers of robot ownership. see Robot products ([`PURA`](http://archerobotics.com/product/pura)) ([`AT1`](http://archerobotics.com/product/at1-indoor-mobile-robotic-development-platform)) . | 2020 |
 
 
 ### Companies acquired, closed or inactive
