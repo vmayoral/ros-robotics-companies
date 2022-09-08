@@ -13,7 +13,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 
 | Company | Description | Year Founded| 
 |---------|-------------|------|
-| [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration for robots with ROS. Robot IP cores. Accelerator-agnostic building blocks for robots (ROBOTCORE family). | 2020 |
+| [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration for robots using ROS 2. Robot IP cores (`robot cores`). Accelerator-agnostic (FPGA, GPU) building blocks for robots (`ROBOTCORE®` family). | 2020 |
 | [Accerion](https://accerion.tech/) | Make infrastructure-free positioning technology for mobile robots and AGVs. Triton[^79], simplify high-performance AMR functions in logistics. ROS driver for Interfacing with Triton sensor  (see [`accerion-ros-node`](https://gitlab.com/accerion/accerion-ros-node)). | 2015 |
 | [ACEINNA](http://www.aceinna.com/) | Create sensing solutions for the development of innovative [Inertial](https://www.aceinna.com/inertial-systems) Measurement Unit (IMU) and current [sensing](https://www.aceinna.com/current-sensors) technologies for cars, robots and other autonomous applications. ROS driver for Aceinna OpenRTK products (see [`aceinna_openrtk_ros_driver`](https://github.com/Aceinna/aceinna_openrtk_ros_driver))[^111]. | 2017 |
 | [ADLINK Technology](https://www.adlinktech.com/en/index) | Manufactures edge hardware and develops edge software for embedded, distributed and intelligent computing. ADLINK contributes to open source, robotics, autonomous, IoT and 5G. | 1995 |
