@@ -79,6 +79,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Canonical](https://canonical.com/) | Computer software company that markets commercial support and related services for Ubuntu and related projects. Through its open-source tools such as snaps for packaging your ROS project and Ubuntu Core to enhance security for mission-critical robots. | 2004 |
 | [Caterpillar](https://www.caterpillar.com/en.html) | Manufacture construction and mining equipment, diesel and natural gas engines, industrial gas turbines. The company is [currently member](https://rosindustrial.org/ric/current-members/#caterpillar) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^136]. | 1925 | 
 | [Cepton](http://cepton.com/) | Develop [lidar-based](https://www.cepton.com/technology) solutions for [automotive](https://www.cepton.com/markets/overview), industrial, and mapping markets. Cepton ROS package (see [`cepton_ros`](https://github.com/ceptontech/cepton_ros)). | 2016 |
+| [CheungWon SFA](http://cwsfa.co.kr/) | Develop and manufacture various agricultural autonomous robots[^225] for the indoor smart farm. Registered as a partner of Doosan Robotics[^226] and OnRobot[^227]. ROS packages (see [`cwsfa`](https://github.com/cwsfa))[^103].| 2019 |
 | [Clearpath Robotics](https://clearpathrobotics.com/) | Manufacturer of robot development platforms, each with ROS-support. Focused on unmanned ground vehicles, unmanned surface vehicles (waterborne), and other industrial vehicles. | 2009 |
 | [Clobot](https://www.clobot.co.kr/) | Is an autonomous robot service provider. They implement specialized robot services in consideration of the robot hardware and  operating environment. ROS drivers (see [`CLOBOT-Co-Ltd`](https://github.com/CLOBOT-Co-Ltd)). | 2017 |
 | [COEX](https://coex.tech/) | Develop and manufacture of unmanned aerial vehicles. Multicopters[^27], developed by the company, are intended for the formation[^26], autonomous monitoring of territories and delivery of goods. ROS Drivers for communicating with COEX drones (see [`CopterExpress`](https://github.com/CopterExpress)). | 2014 | 
@@ -609,3 +610,6 @@ Send a Pull Request with additions, modifications or removals. Make sure to hint
 [^222]: Webots ROS 2 interface https://github.com/cyberbotics/webots_ros2
 [^223]: Robot simulations on the web https://webots.cloud
 [^224]: Robot benchmarks on the web https://robotbenchmark.net
+[^225]: Pesticide spraying robot https://youtu.be/B8s5MSlwCGw
+[^226]: https://www.doosanrobotics.com/en/Index
+[^227]: https://onrobot.com/en
