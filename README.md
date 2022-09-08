@@ -477,7 +477,7 @@ Send a Pull Request with additions, modifications or removals. Make sure to hint
 [^91]: https://www.svlsimulator.com/product/simulation/
 [^92]: https://youtu.be/KhtJoBp16T0
 [^93]: https://discourse.ros.org/t/iron-ox-two-robotics-software-positions-for-automating-farming/9898
-[^94]: https://robots.ros.org/irobot-roomba/
+[^94]: https://edu.irobot.com/what-we-offer/create3
 [^95]: http://wiki.ros.org/IntelROSProject
 [^96]: https://husarnet.com/docs/tutorial-ros2
 [^97]: https://husarion.com/tutorials/ros-tutorials/1-ros-introduction/
