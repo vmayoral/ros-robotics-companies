@@ -394,7 +394,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 
 ### Contribute
 
-Send a Pull Request with additions, modifications or removals. Make sure to hint how you're related to the organization if suggesting a relevant change.
+Send a Pull Request with additions, modifications or removals. For new contributions, **please indicate how you're using ROS** (which distro you're using, which packages, etc.). Make sure to hint how you're related to the organization if suggesting a relevant change.
 
 
 [^1]: Robot Immune System https://aliasrobotics.com/ris.php
