@@ -632,4 +632,4 @@ Send a Pull Request with additions, modifications or removals. Make sure to hint
 [^230]: https://github.com/DLu/ros_map/pull/211
 [^231]: Cartken - Electrical Engineer, https://www.linkedin.com/jobs/view/3225632893/?refId=YRikzAx7QBbhMugJE4tlOg%3D%3D&trackingId=W%2F7%2FXS%2FypZ3Uy8XTnDkLbw%3D%3D&trk=d_flagship3_company
 [^232]: Cartken - Embedded Robotics Engineer, https://www.linkedin.com/jobs/view/3242055034/?refId=YRikzAx7QBbhMugJE4tlOg%3D%3D&trackingId=SHZlCMEGKeWP%2FcNkWQPDqA%3D%3D&trk=d_flagship3_company
-[^233] https://gitlab.com/doguros/dbot2022
+[^233]: https://gitlab.com/doguros/dbot2022
