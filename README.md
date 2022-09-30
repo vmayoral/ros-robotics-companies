@@ -31,6 +31,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Airnamics](https://airnamics.com/) | Developing AI-based robotics solutions for the manufacturing industry. The company develops both hardware and software to achieve fast-deployable and modular robotic cells. ROS is at the core of the low-level software that handles device communication and action scheduling (see [`koco`](https://github.com/flx-robotics/koco)). | 2011 |
 | [Airvolute](https://www.airvolute.com/) | Drones and Aupilots with ROS based system for autonomous flight[^200][^201]. | 2020 |
 | [Alias Robotics](https://www.aliasrobotics.com/) | Robot cybersecurity products and services around ROS and ROS 2 systems[^192]. The company is a relevant contributor to the ROS 2 Security WG[^190][^191] and is also behind the Robot Immune System (RIS)[^1], an endpoint protection platform for robots that offers ROS and ROS 2  additional security layers. | 2018 |
+| [Altineller Robotics](http://altineller.org) | ROS native control and sensor cards. Produces ROSRider[^245] and open-source FXIMU[^246]. | 2021 |
 | [AMD](https://amd.com) | High-performance and adaptive computing leader, GPU, CPU and FPGA solutions. Kria SOMs feature ROS 2 support and provide hardware acceleration capabilities to roboticists. | 1969 |
 | [AMP Robotics](http://amprobotics.com) | The use of automation and AI to modernize the recycling infrastructure worldwide. Recycling from mixed material streams is identified and sorted automatically by the high-speed robotics system AMP CortexTM. The AMP NeuronTM AI platform constantly improves itself by identifying materials and their recyclable nature. | 2015 |
 | [Amsted Rail](http://www.amstedrail.com/) | Design of fully integrated freight car systems for the heavy haul rail market. The company is [currently members](https://rosindustrial.org/ric/current-members/#amsted-rail) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^132]. | 1977 |
@@ -674,3 +675,5 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^242]: https://www.linkedin.com/jobs/view/3264971272
 [^243]: https://www.linkedin.com/jobs/view/3248361044
 [^244]: https://www.linkedin.com/jobs/view/3291491344
+[^245]: ROSRider is a generic plug-and-play control card for planar robots: http://rosrider.com  
+[^246]: FXIMU is an inertial measurement unit that utilizes a port of ROS's complementary filter on the ARM TM4C123 Cortex-M4F MCU: https://github.com/altineller/fximu
