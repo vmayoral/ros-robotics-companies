@@ -423,6 +423,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Planck Aerosystems](https://www.planckaero.com/) | Designs and builds autonomy and navigation solutions for unmanned systems using various open open source robotics technologies, including ROS and Gazebo. Job offers requiring ROS and Gazebo *knowhow* [^195].  | 2014 | **Acquired** (2022, AeroVironment[^196]) |
 | [Rethink Robotics](http://www.rethinkrobotics.com) | Created ROS-based collaborative compliant robotic arms for use in manufacturing facilities[^41] (see [`RethinkRobotics`](https://github.com/RethinkRobotics)). | 2008 | <ins>Closed</ins> (2018), short on cash as its sales failed to meet expectations, later integrated in HAHN Group |
 | [Rocos](https://web.archive.org/web/20200723041448/https://www.rocos.io/) | Cloud platform to build and manage your robot operations. Offered ROS 2 connectors. | 2017 | **Acquired** (2021, DroneDeploy) |
+| [Unbounded Robotics](https://web.archive.org/web/20131030012058/http://unboundedrobotics.com/) | Building the next generation of advanced, affordable, mobile manipulation platforms with ROS | 2013 | <ins>Closed</ins> (2014), issues with the Willow Garage spin-off agreement which prevented them from raising an A round |
 | [Waypoint Robotics](http://waypointrobotics.com) | Build autonomous mobile robots. In addition to designing the robots, they also offer accessories. ROSBridge to use interfaces on Waypoint Robotics robots (see [`waypoint-rosbridge-ros-api`](https://github.com/waypointrobotics/waypoint-rosbridge-ros-api)). | 2016 | **Acquired** (2021, Locus Robotics) |
 | [Xilinx](https://www.xilinx.com) | Adaptive computing leader. Creator of the FPGA. Various robotics silicon solutions featuring CPUs and FPGAs. Kria SOMs robotics strategy was built around ROS 2[^218] | 1984 | **Acquired** (2021, AMD, $35 billion[^219]) |
 | [5D Robotics](https://web.archive.org/web/20180319195556/https://5drobotics.com/) | 5D Robotics is a software company that accelerates human productivity and safety in an evolving, dynamic world. | 2009 | **Acquired** (2018, Humatics) |
@@ -688,3 +689,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^249]: https://www.linkedin.com/jobs/view/3294340305
 [^250]: https://www.linkedin.com/jobs/view/3295097708
 [^251]: https://www.linkedin.com/jobs/view/3280630467
+[^252]: Unbounded Robotics Closes Down https://www.therobotreport.com/unbounded-robotics-closes-down/
