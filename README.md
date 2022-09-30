@@ -244,6 +244,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [nLink mobile robotics](https://www.nlinkrobotics.com/) | Developing mobile robotic systems. Helps to realize robotics [visions](https://www.nlinkrobotics.com/tailored-robotic-concepts), and robotize repetitive and dangerous job tasks. With his [Cloud Robotics Software](https://www.nlinkrobotics.com/cloud-robotic-software) help robots fleet to stay synchronized and productive at all times [^121]. | 2012 |
 | [Nokia Bell Labs](https://www.bell-labs.com/) | Is the industrial research arm of Nokia, having invented many of the foundational technologies that underpin information and communications networks and all digital devices and systems. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 1925 | 
 | [NOKOV Motion Capture](https://www.nokov.com/) | Company focused on optical 3D motion capture system in researching, developing, manufacturing and relative technical services. ROS nodes for working with the Nokov motion capture system (see [`mocap_nokov`](https://github.com/NOKOV-MOCAP/mocap_nokov)). | 2015 |
+| [Novium](https://www.noviumdesigns.com/) | Robotics engineering firm serving the space and automation industries. Using ROS throughout their engineering services. Actively seeking for ROS talent[^251] | 2021 |
 | [NTT Disruption](https://disruption.global.ntt) | NTT Disruption is an information technology company dedicated to technical support and enterprise software design. They are known to purchase the social robot Jibo's IP[^194] and to use ROS to program it for various demonstrators and healthcare applications | 2019 |
 | [NVIDIA](https://www.nvidia.com/es-es/autonomous-machines/robotics/) | Silicon vendor. High-performance GPU-based computing including CPU and GPU solutions. Jetson family of products.| 1993 |
 | [NXROBO](http://www.nxrobo.com/) | Build China's largest ROS community "Spark Plan", dedicated to the research and development of ROS commercial-grade product technology and empowering education. Its core business is to provide AI & The overall solution for robotic labs and practical courses. The ROS wrapper of Sparks's driver plus various ROS applications (see [`spark`](https://github.com/NXROBO/spark)). | 2015 | 
@@ -686,3 +687,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^248]: https://www.linkedin.com/jobs/view/3291382311
 [^249]: https://www.linkedin.com/jobs/view/3294340305
 [^250]: https://www.linkedin.com/jobs/view/3295097708
+[^251]: https://www.linkedin.com/jobs/view/3280630467
