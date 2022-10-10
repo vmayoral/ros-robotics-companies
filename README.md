@@ -170,6 +170,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Honda Research Institute](https://usa.honda-ri.com/) | Research in Artificial Intelligence and intelligent systems. Sponsor of the [ROScon](https://roscon.ros.org/jp/2018/) JP 2018. ROSCon is a developers conference [^170]. | 2003 | 
 | [Honeybee Robotics](honeybeerobotics.com) | Develop robotics systems for the space industry, includingactuators, drills, and sample collection systems for several Mars missions. ROS packages for interfacing with a NASA cFS system (see [`roscfs`](https://github.com/honeybee-robotics/roscfs))[^98]. | 1983 |
 | [Hesai Technology](http://www.hesaitech.com/en) | Design [laser sensors](https://www.hesaitech.com/en/AT128) for robots and self-driving cars. ROS drivers for Hesai Technology sensors (see [`HesaiTechnology`](https://github.com/HesaiTechnology)). | 2014 |
+| [Hippo Harvest](https://www.hippoharvest.com/) | A controlled environment agriculture (CEA) company that leverages plant science, machine learning and robotics to sustainably grow vegetables in greenhouse environments. Seeking for ROS roboticists to design, implement, deploy, and maintain software/systems for all things related to robotics/automation at their 150,000 square foot greenhouse in Pescadero, CA [^268] | 2019 |
 | [HOPE Technik](https://www.hopetechnik.com/) | Deliver high performance engineering solutions. From creating a laparoscopic robot the size of a fingernail, to having autonomous robots run in global manufacturing plants. | 2006 |
 | [Hokuyo Automatic](http://www.hokuyo-aut.jp) | Is a developer of optical data transmission devices, photo sensors, auto counters, and automatic doors. A ROS node to provide access to SCIP 2.0-compliant Hokuyo laser range finders  (see [`hokuyo_node`](https://github.com/ros-drivers/hokuyo_node)). | 1946 |
 | [Humatics](http://www.humatics.com) | Create precise location and navigation data in places where these capabilities do not exist today to support multiple use cases in  manufacturing, transportation, robotics, surgical, and more.. ROS drivers for the Piksi RTK GPS module (see [`ethz_piksi_ros`](https://github.com/Humatics/ethz_piksi_ros)). | 2015 |
@@ -722,3 +723,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^265]: https://www.linkedin.com/jobs/view/3306515734
 [^266]: https://www.therobotreport.com/keba-acquires-software-startup-drag-and-bot/
 [^267]: https://www.linkedin.com/jobs/view/3300413498
+[^268]: https://discourse.ros.org/t/roboticist-sf-bay-area/27657
