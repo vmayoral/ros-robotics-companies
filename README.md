@@ -113,6 +113,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [CrossWing](http://www.crosswing.com) | Create a customizable robotics platform. A planning and control system for CrossWing Nav2[^57]robots (see [`catnav2`](https://github.com/timtro/catnav2)). | 2006 | 
 | [Crover](https://www.crover.tech) | Creator of the world's first 'granular drone' (i.e. a 'CROVER'), in the sense of a device able to swim through bulk solids and powders, a.k.a. granular materials. The CROVER Grain Storage Management system is a robotic and automation tool primarily aimed at grain storage operators, such as farmers, grain merchants and cooperatives, helping them save money and maintain the quality of their stock. Using ROS 1 and ROS 2 in its CROVER robot and system. | 2018 | 
 | [Cyberbotics](https://cyberbotics.com) | Develop the Webots[^220] open-source robot simulator, including ROS[^221] and ROS 2[^222] interfaces, robot simulations on the web at webots.cloud[^223] and robotbenchmark.net[^224]. | 1998 |
+| [Cyngn](https://www.cyngn.com/) | Autonomous Vehicle solutions and enterprise autonomy suite for industrial use cases across logistics, material handling, and mining. Hiring and searching for ROS developers [^279]| 2013 |
 | [Dataspeed](https://www.dataspeedinc.com/) | Offer engineered hardware and software tools to researchers and developers working on mobility and robotics solutions. Dataspeed's ADAS Kit (Advanced Driver Assistance Systems) provides research and development platform. ROS CAN driver for Dataspeed Drive-by-Wire Kit (see [`dataspeed_can_driver`](https://github.com/VT-ASIM-LAB/dataspeed_can_driver))[^24]. | 2008 | 
 | [Datavision](https://datavision.software) | In Datavision, we focus on machine vision, AI, mobile robotics and enterprise systems for industry. In REX project, we work with mobile robots and ROS2| 2004 |
 | [DEKA](http://www.dekaresearch.com/) | Medical Equipment Manufacturing. Building various robots, including robotic chairs. Seeking for ROS expertise in the robotics positions[^261] | 1982 |
@@ -744,3 +745,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^276]: https://www.linkedin.com/jobs/view/3178546296
 [^277]: https://www.linkedin.com/jobs/view/3347981895
 [^278]: https://www.linkedin.com/jobs/view/3348691229
+[^279]: https://www.linkedin.com/jobs/view/3349041946
