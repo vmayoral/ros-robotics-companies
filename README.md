@@ -149,6 +149,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [FarmWise](http://farmwiselabs.com) | Provide technology-based services that allow farmers to streamline farm operations and increase food production efficiency.  Code for working with images in ROS (see [`image_common`](https://github.com/FarmWise/image_common)). | 2016 |
 | [Fieldwork Robotics](https://fieldworkrobotics.com/) | Develop selective, adaptive and modular harvesting robots operating in non-controllable agricultural environments. Uses machine learning for crop recognition and the ROS Moveit package for robot arm control. | 2016 |
 | [Fixstars Corporation](https://www.fixstars.com/en) | Provide solutions that harness the high computing performance of multi-core technology. Sponsor of the [ROScon](https://roscon.ros.org/jp/2019/) JP 2019. ROSCon is a developers conference [^166]. | 2002 | 
+| [Flexiv](https://www.flexiv.com) | Building collaborative robotic arms with AI capabilities. So called adaptive robots. Uses ROS for development, offers ROS 2 drivers for their robot arm[^280] and commits to supporting ROS 2 full integration. | 2016 | 
 | [Formant](https://formant.io//) | Provide the analytics platform, which presents application data in a single Web-based user interface. Formant’s [cloud](https://formant.io/product/) software enables organizations to monitor robot fleets in real time [^84]. ROS package contains examples for integrating with the Formant agent in a ROS context (see [`formant-ros`](https://github.com/FormantIO/formant-ros)). | 2017 |
 | [Foxglove](https://foxglove.dev/studio) | Open source robotics visualization and debugging tool that combines a list of ROS tools (see [`foxglove`](https://github.com/foxglove)).| 2021 |
 | [Gaia Platform](https://www.gaiaplatform.io/) | Create a platform for developing applications for Autonomous Machines. You can integrate multiple system components in a common setting, from machine learning functions to ROS-enabled actuator. And can run it all without the need for constant cloud connectivity. ROS drivers (see [`gaia-platform`](https://github.com/gaia-platform)).| 2017 |
@@ -746,3 +747,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^277]: https://www.linkedin.com/jobs/view/3347981895
 [^278]: https://www.linkedin.com/jobs/view/3348691229
 [^279]: https://www.linkedin.com/jobs/view/3349041946
+[^280]: https://www.flexiv.com/en/newslist?id=159
