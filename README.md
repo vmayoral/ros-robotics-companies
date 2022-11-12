@@ -69,6 +69,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Bastian Solutions](http://www.bastiansolutions.com) | Is an independent material handling and robotics system integrator providing automated solutions for distribution and manufacturing. The company is [currently member](https://rosindustrial.org/ric/current-members/#bastian-solutions) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^133]. | 1952 |
 | [Beagle Technology](https://www.beagle-tech.com/) | AI + Software + Robotics + Agriculture. Transforming labor intensive farming with AI-powered mechanization and robots. Seeking for a Director of Robotics with 5+ years with ROS[^274]. | 2021 |
 | [Bear Robotics](https://www.bearrobotics.ai) | Autonomous Mobile Robots (AMRs) for the food service and hospitality. Their job positions require ROS and Gazebo knowledge[^253][^254]. Leverage ROS in their products, including the ROS navigation stack. | 2017 |
+| [Beijing RayooTech](http://www.rayootech.com/en) | IT service company providing IT and R&D services. Offering ROS consulting services and looking to hire for it[^282] | 2003 |
 | [Beta Robots](https://beta-robots.com/) | Offer a comprehensive software solution for intralogistics applications using autonomous mobility robots (AMR/AGV). They are skilled in the conception of system architecture, synthetic perception, mechanics, kinematics, algorithm design, and software development. | 2016 |
 | [Birds Eye Robotics](https://www.birdseyerobotics.com) | Agtech startup focusing on animal welfare and labor reduction in commercial poultry farms. Using ROS 2 Galactic with Nav2 to run our AMR. | 2021 |
 | [Bitcraze AB](https://www.bitcraze.io) | They develop and manufacture a small quadcopter called the Crazyflie[^29]. They also develop and maintain a supporting infrastructure with various tools to enable the end users to modify the Crazyflie in any way they want. Bitcraze LPS ROS driver (see [`lps-ros`](https://github.com/bitcraze/lps-ros)). | 2012 | 
@@ -750,3 +751,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^279]: https://www.linkedin.com/jobs/view/3349041946
 [^280]: https://www.flexiv.com/en/newslist?id=159
 [^281]: https://www.linkedin.com/jobs/view/3258299699
+[^282]: https://www.linkedin.com/jobs/view/3355939782
