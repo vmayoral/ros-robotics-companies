@@ -415,6 +415,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Unlimited Robotics](http://www.unlimited-robotics.com) | Company trying to simplify robotic programming for developers using Gary, a pseudo-humanoid multi-functional robot. Their open source code[^204] hints they leverage ROS under the hood. | 2021 |
 | [UVD Robots](https://uvd.blue-ocean-robotics.com/) | Autonomous disinfection robots using ultraviolet (UV) light. Their robots are powered by ROS. In particular, their UV-A and UV-B robots are built with MiR-100 which is ROS (1)-based. | 2016 |
 | [UVify](https://www.uvify.com/) | Is a developer and manufacturer of high-performance drones, autonomous technologies, and related hardware and software. ROS drivers for UVify (see [`uvify`](https://github.com/uvify)). | 2014 |
+| [Vention](https://vention.io/) |  Platform to Design, Automate, Order, and Deploy automated equipment. Looking for ROS talent for their automation equipment[^285].  | 2016 |
 | [Waymo](https://www.waymo.com) | Is an autonomous driving technology company. Improves transportation by building software and sensor technology. ROS package to connect Waymo open dataset to ROS (see [`waymo_ros`](https://github.com/YonoHub/waymo_ros)). | 2009 |
 | [WeGo-Robotics](https://wego-robotics.com) | Company building solutions using ROS and doing system integration with it for labs, as well as Proof of Concepts. System integration using [`MoveIt`](https://github.com/ros-planning/moveit) for controlling Manipulator or [`Navigation Stack`](https://github.com/ros-planning/navigation) for controlling Mobile Robot or both for Mobile Manipulator. Mainly based on `ROS`, but started to support `ROS2`. (2022) (see [`WeGo-Robotics`](https://github.com/WeGo-Robotics)). | 2016 |
 | [Weston Robot](https://www.westonrobot.com/) | Develop integrated robotics solutions. The company's products include [exoskeletons](https://www.westonrobot.com/industrial-exoskeleton), [outdoor](https://www.westonrobot.com/ground-UGV) robots, robotic [arms](https://www.westonrobot.com/robot-arm) and hands, warehousing and logistics robots. ROS drivers (see [`westonrobot`](https://github.com/westonrobot)). | 2019 |
@@ -756,3 +757,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^282]: https://www.linkedin.com/jobs/view/3355939782
 [^283]: https://jobs.rosen-group.com/Job/3765
 [^284]: https://www.linkedin.com/feed/update/urn:li:activity:6998256160956891136
+[^285]: https://www.linkedin.com/jobs/view/3354974779
