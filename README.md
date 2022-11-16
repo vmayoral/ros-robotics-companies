@@ -314,6 +314,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [RevoAI](https://www.revoai.de/) | Tools, software components and services to validate and guarantee the overall safety performance of autonomous systems and robots. They use ROS on customer projects. | 2021 | 
 | [RIOS Intelligent Machines](http://www.rios.ai) | Create automated robotic workcells powered by AI for factories. Robotics and AI can be used to transform labor-intensive workplaces into smart factories. | 2018 |
 | [Rivelin Robotics](http://www.rivelinrobotics.com) | Creators of autonomous metal [finishing robots](https://rivelinrobotics.com/meet-the-robots) called [NetShape®](https://rivelinrobotics.com/learn-the-tech). Unlike manual labour & casting automation, Rivelin NetShape® is repeatable AND flexible. ROS-I and Noetic drivers (see [`RivelinRobotics`](https://github.com/RivelinRobotics)). | 2018 |
+| [RoboDeck](https://www.robo-deck.com/) | Outdoor manteinance robots powered by ROS and developed/controlled by ROS-ecosystem tools and extensions [^284]. | 2022 |
 | [Roboception GmbH](https://roboception.com/en/) | Develop software and hardware products for real-time perception and localisation of robotic systems[^81]. ROS interface for the Roboception [rc_visard](https://roboception.com/en/rc_visard-en/) 3D sensor (see [`rc_visard_ros`](https://github.com/roboception/rc_visard_ros)). | 2015 |
 | [RoboSense](https://www.robosense.ai) | Is an environment perception solutions provider of autonomous driving LiDAR. RoboSense LiDAR SDK for ROS & ROS2 (see [`rslidar_sdk`](https://github.com/RoboSense-LiDAR/rslidar_sdk)). | 2014 |
 | [Robotec.AI](https://robotec.ai/) | Develops high-tech solutions for automated and connected vehicles. Support in applying ROS and ROS2 middleware to develop robotic applications. Make LIDARs-based modules for localization, perception and motion planning. A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles (see [`simulator`](https://github.com/RobotecAI/simulator)), more ROS Drivers (see [`RobotecAI`](https://github.com/RobotecAI)).  | 2019 |
@@ -754,3 +755,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^281]: https://www.linkedin.com/jobs/view/3258299699
 [^282]: https://www.linkedin.com/jobs/view/3355939782
 [^283]: https://jobs.rosen-group.com/Job/3765
+[^284]: https://www.linkedin.com/feed/update/urn:li:activity:6998256160956891136
