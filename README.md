@@ -213,6 +213,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Kittyhawk](http://kittyhawk.aero) | Construct a remotely piloted, electric single-person aircraft. With the intention of creating air taxis. ROS driver for Swift Navigation SBP devices (see [`swiftnav_ros`](https://github.com/KittyHawkCorp/swiftnav_ros)). | 2010 |
 | [Kiwibot](https://www.kiwibot.com/) | Offer food delivery with robots for [campus colleges](https://www.kiwibot.com/college-campuses). ROS Drivers for communicating with Kiwibot robots (see [`kiwicampus`](https://github.com/kiwicampus)). | 2017 |
 | [Kopernikus Automotive](https://www.kopernikusauto.com/) | Develop automated valet parking technology[^123], which describes an autonomous driving solution. Pure Rust implementation of a ROS client library (see [`rosrust`](https://github.com/kopernikusauto/rosrust)). | 2016 |
+| [KPIT](https://www.kpit.com/) | Global partner to the automotive and mobility ecosystem for making software-defined vehicles a reality. Hiring ROS talent[^290] | 1990 |
 | [Kudan](https://www.kudan.io/) | Provides artificial perception technologies based on SLAM, to use in autonomous driving, robotics, AR/VR and smart cities. Turtlebot running ROS with 2D LiDAR, and added Kudan SLAM as a ROS navigation module [^92]. | 2010 |
 | [KUKA](http://www.kuka.com) | Is a manufacturer of robotic systems, offering a wide range of industrial robots and robot systems. ROS-Industrial KUKA support (see [`kuka`](https://github.com/ros-industrial/kuka)). Actively seeking for ROS engineers[^241] | 1898 |
 | [Kyocera](https://global.kyocera.com/robotics/) | Supply industrial and automotive components, semiconductor packages, electronic devices, smart energy systems, printers, copiers and mobile phones. The company is [currently member](https://rosindustrial.org/ric/current-members/#kyocera) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^144]. | 1959 |
@@ -765,3 +766,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^287]: https://aimotive.com/w/stellantis-accelerates-autonomous-driving-journey-with-acquisition-of-aimotive-a-leading-artificial-intelligence-and-autonomous-driving-start-up
 [^288]: https://www.linkedin.com/jobs/view/3366666521/
 [^289]: https://www.linkedin.com/jobs/view/3366871403
+[^290]: https://www.linkedin.com/jobs/view/3026369126
