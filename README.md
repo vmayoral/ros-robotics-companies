@@ -147,6 +147,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [eSOL](http://www.esol.com) | Is a company in the fields of embedded systems and Industrial IoT that seeks to create a safer and better connected society using its innovative computer technologies. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 1975 | 
 | [Eyeware](https://eyeware.tech) | Is an tech provider of eye tracking solutions for webcams and 3D cameras. Eyeware ROS utilities for 3D eye tracking (see [`eyeware-ros`](https://github.com/eyeware/eyeware-ros)). | 2016 |
 | [eYs3D Microelectronics, Co.](https://www.eys3d.com/) | Is a silicon-centric and AI-enabling solutions provider specializing in computer vision and 3D sensor fusion processing for applications such as robotics and VR/AR systems. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 2016 | 
+| [Fairmat](https://www.fairmat.tech/) | Bring a way to recycle carbon fiber composite. Use robotics to automate recycling processes. Looking for ROS talent[^291] | 2020 |
 | [FANUC](https://www.fanuc.com/) | Provide automation products and services such as robotics and computer numerical control systems. ROS-Industrial Fanuc meta-package (see [`fanuc`](https://github.com/ros-industrial/fanuc))[^30]. | 1972 |
 | [FarmWise](http://farmwiselabs.com) | Provide technology-based services that allow farmers to streamline farm operations and increase food production efficiency.  Code for working with images in ROS (see [`image_common`](https://github.com/FarmWise/image_common)). | 2016 |
 | [Fieldwork Robotics](https://fieldworkrobotics.com/) | Develop selective, adaptive and modular harvesting robots operating in non-controllable agricultural environments. Uses machine learning for crop recognition and the ROS Moveit package for robot arm control. | 2016 |
@@ -767,3 +768,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^288]: https://www.linkedin.com/jobs/view/3366666521/
 [^289]: https://www.linkedin.com/jobs/view/3366871403
 [^290]: https://www.linkedin.com/jobs/view/3026369126
+[^291]: https://fr.indeed.com/viewjob?jk=41dc5ec0cbf91789
