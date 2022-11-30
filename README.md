@@ -146,6 +146,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [eProsima](https://www.eprosima.com/) | Provides insight to develop distributed systems recommending the right DDS middleware products and supporting in all the stages of the development. ROS drivers for eProsima middleware (see [`eProsima`](https://github.com/eProsima))[^105]. | 2005 |
 | [Erthos](https://www.erthos.com/) | Solar power deployment platform. Behind “ErthBot” autonomous robot which cruises over and cleans the solar panels in our solar fields. Leverage ROS in the robot. Seeking for ROS expertise[^216][^217] | 2019 |
 | [eSOL](http://www.esol.com) | Is a company in the fields of embedded systems and Industrial IoT that seeks to create a safer and better connected society using its innovative computer technologies. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 1975 | 
+| [Eve Autonomy](https://eveautonomy.com/en/) | Building an autonomous transportation service using Autoware-based autonomous driving technology and using ROS 2 to do so. It was established by Yamaha Motor and TIER IV in 2020[^293] | 2020 |
 | [Eyeware](https://eyeware.tech) | Is an tech provider of eye tracking solutions for webcams and 3D cameras. Eyeware ROS utilities for 3D eye tracking (see [`eyeware-ros`](https://github.com/eyeware/eyeware-ros)). | 2016 |
 | [eYs3D Microelectronics, Co.](https://www.eys3d.com/) | Is a silicon-centric and AI-enabling solutions provider specializing in computer vision and 3D sensor fusion processing for applications such as robotics and VR/AR systems. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 2016 | 
 | [Expleo Group](https://expleo.com/global/en/) | A global engineering, technology and consulting service provider that partners with leading organisations to guide them through their business transformation, helping them achieve operational excellence and future-proof their businesses. Hiring ROS talent [^292]. | 1966 |
@@ -772,3 +773,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^290]: https://www.linkedin.com/jobs/view/3026369126
 [^291]: https://fr.indeed.com/viewjob?jk=41dc5ec0cbf91789
 [^292]: https://www.linkedin.com/jobs/view/3286634248
+[^293]: eve autonomy launches Japan’s first unmanned transportation service using autonomous EV https://medium.com/tier-iv-tech-blog/eve-autonomy-launches-japans-first-unmanned-transportation-service-using-autonomous-ev-eve-d4ed20fa20e1
