@@ -282,6 +282,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Microsoft](https://www.microsoft.com/) | Software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services. The company is [currently member](https://rosindustrial.org/ric/current-members/#microsoft) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^147]. | 1975 |
 | [Milrem Robotics](https://milremrobotics.com/) | Multi-role defence and military robots. Some commercial solutions as well. Their development is based in ROS and ROS 2[^229] | 2013 | 
 | [Milvus Robotics](https://milvusrobotics.com) | Offer Autonomous Mobile Robots (AMRs). SEIT[^34] robots move materials with no human intervention required. ROS Drivers for communicating with Milvus Robotics products (see [`milvusrobotics`](https://github.com/milvusrobotics)). | 2011 | 
+| [MITRE](https://www.mitre.org/) | US defense, cybersecurity, healthcare, homeland security, the judiciary and transportation firm. Hiring robotic engineers with ROS skills [^307] | 1958 | 
 | [Miso Robotics](https://misorobotics.com) | Robots-as-a-Service and intelligent automation solutions for the food industry, specially restaurants and fast-food production. Examples include robotic frying stations, vision-enabled grill systems and automatic beverage dispensers. Using ROS both at the edge and in the cloud[^295]| 2016 |
 | [Mission Robotics](https://missionrobotics.us) | Building ROS 2-based observation and inspection ROVs and AUVs (focused on marine platforms) for enterprise and academic users[^182]. They also offer consulting services around robotics and ROS 2/DDS [^181]. | 2020 |
 | [Mitsubishi Electric](http://www.mitsubishielectric.com/) | Manufacture and sell electric and electronic equipment used in various systems and appliances. Mitsubishi supports ROS functions [^172]. | 1921 |
@@ -857,3 +858,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^304]: https://www.therobotreport.com/8-notable-robotics-acquisitions-in-2022/
 [^305]: https://fetchrobotics.com/fetch-robotics-blog/zebra-technologies-to-acquire-fetch-robotics/
 [^306]: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2016/mar/0311-cruise.html
+[^307]: https://www.linkedin.com/jobs/view/3429217836
