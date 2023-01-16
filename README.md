@@ -333,6 +333,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Outrider](https://www.outrider.ai) | Autonomous yard operations with robotic systems. Seeking for ROS talent in their autonomy team[^265]  | 2017 |
 | [PAL Robotics](https://pal-robotics.com/) | Design, craft and customize humanoid and mobile robots, and modular robotic parts that adjust to people’s needs, enabled with ROS framework. Software package and ROS wrappers (see [`pal-robotics`](https://github.com/pal-robotics))[^86]. | 2004 |
 | [Panasonic](https://holdings.panasonic/global/) | Manufacture and sell various electronic and electric products. Panasonic Industry fields electronic and industrial devices for industry, telecommunications, and automobiles. ROS-driver for a Panasonic robot  (see [`panasonic`](https://github.com/DavidJornThesis/panasonic))[^118]. | 1918 |
+| [Parker Microstrain](https://www.microstrain.com/) | Make tiny sensors and systems that are used in a wide range of applications. Use ROS internally and to enable customers. Provide ROS drivers for their sensors and devices[^308]. | 1924 |
 | [Parrot](https://www.parrot.com/us) | Leading European group in the drones industry. Various aerial solutions for commercial and professional applications which offer various ROS connectors and integrations (e.g. see [`slamdunk_ros`](https://github.com/Parrot-Developers/slamdunk_ros))[^85]. | 1994 |
 | [Peer Robotics](https://www.peerrobotics.ai) | Collaborative mobile robotics company building material handling solutions for manufacturing industries. Robots designed to work with humans and built with ROS at its core. | 2019 |
 | [Pepperl+Fuchs Group](https://www.pepperl-fuchs.com/global/en/index.htm) | Manufacture electronic sensors, safety and explosion protection technology. [Pepperl+Fuchs R2000](https://www.pepperl-fuchs.com/global/en/R2000_Detection_laser_scanner.htm) Driver (see [`pepperl_fuchs`](https://github.com/dillenberger/pepperl_fuchs))[^119]. | 1945 |
@@ -860,3 +861,4 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^305]: https://fetchrobotics.com/fetch-robotics-blog/zebra-technologies-to-acquire-fetch-robotics/
 [^306]: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2016/mar/0311-cruise.html
 [^307]: https://www.linkedin.com/jobs/view/3429217836
+[^308]: https://www.linkedin.com/feed/update/urn:li:activity:7020419329082966016?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7020419329082966016%2C7020576945654419456%29
