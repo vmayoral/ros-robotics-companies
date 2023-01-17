@@ -424,6 +424,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Stellantis](https://www.stellantis.com) | World leading automakers and mobility provider. Seeking for ROS talent in their Cockpit AI team[^267]. Acquired aiMotive which uses ROS 2. | 2021 |
 | [Starship Technologies](http://www.starship.xyz) | Is a robotics company building fleets of self-driving delivery robots designed to deliver goods. C++ ROS bag reader (see [`bag_rdr`](https://github.com/starship-technologies/bag_rdr)). | 2014 |
 | [STMicroelectronics](https://www.st.com/) | Semiconductor seller. [Micro-ROS module](https://discourse.ros.org/t/micro-ros-module-for-stm32cubemx/19487/1) for [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html#overview). | 1987 | 
+| [Stereolabs](https://www.stereolabs.com/) | Is the leading provider of 3D depth and motion sensing solutions based on stereo vision and artificial intelligence. From robots to drones and cars, Stereolabs empowers machines with the ability to see and understand the world in 3D. Stereo cameras for robotics: [ZED-X](https://www.stereolabs.com/zed-x/) - [ZED2i](https://www.stereolabs.com/zed-2i/). ROS[^310] and ROS2[^311] drivers, with examples and tutorials[^312][^313]. | 2010 | 
 | [Stogl Robotics](https://www.stoglrobotics.de/) | Is the consulting and engineering services company specialized on Robot Control, software and hardware integration, and use of ROS and ROS2. The company is [currently member](https://rosindustrial.org/ric/current-members/#stogl-robotics) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^153]. | 2021 |
 | [ST Robotics](http://strobotics.com) | Manufacture bench top robots. Their most popular products are the robotic arms[^66],ROS package providing moveit support for the ST Robotics arms, including controller configuration (see [`ST-ROBOTICS`](https://github.com/ST-ROBOTICS)). | 1986 |
 | [Sundance Multiprocessor Technology](http://www.sundance.com) | Provide embedded signal processing solutions. Sponsor of the [ROScon](https://roscon.ros.org/world/2020/) 2020. ROSCon is a developers conference [^167]. | 1989 | 
@@ -862,3 +863,7 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 [^307]: https://www.linkedin.com/jobs/view/3429217836
 [^308]: https://www.linkedin.com/feed/update/urn:li:activity:7020419329082966016?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7020419329082966016%2C7020576945654419456%29
 [^309]: https://cobiotx.unitedrobotics.group/uploads/PR_Robotnik_ENG.pdf
+[^310]: ZED ROS Wrapper - https://github.com/stereolabs/zed-ros-wrapper
+[^311]: ZED ROS2 Wrapper - https://github.com/stereolabs/zed-ros2-wrapper
+[^312]: ZED ROS Examples - https://github.com/stereolabs/zed-ros-examples
+[^313]: ZED ROS2 Examples - https://github.com/stereolabs/zed-ros2-examples
