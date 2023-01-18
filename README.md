@@ -13,6 +13,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 
 | Company | Description | Year Founded| 
 |---------|-------------|------|
+| [FloMobility](https://flomobility.com) | FloMobility is a robotics company, which specialized in camera-based autonomy which can be integrated with any vehicle.[careers](). | 2016 |
 | [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration solutions for robots using ROS 2. Robot-specific processing unit ([`ROBOTCORE®`](https://accelerationrobotics.com/products.php)), FPGA and GPU hardware acceleration tools (e.g. [`ROBOTCORE®` Framework](https://accelerationrobotics.com/robotcore-framework.php)) and ROS 2 API-compatible robot Intellectual Property (IP) cores (`robot cores` such as [`ROBOTCORE®` Perception](https://accelerationrobotics.com/robotcore-perception.php) or [`ROBOTCORE®` Transform](https://accelerationrobotics.com/robotcore-transform.php)). | 2020 |
 | [Accenture](https://www.accenture.com/in-en) | One of the biggest consulting firms. Offering robotics and edge computing consulting services around ROS and seeking for that talent[^281] | 1989 |
 | [Accerion](https://accerion.tech/) | Make infrastructure-free positioning technology for mobile robots and AGVs. Triton[^79], simplify high-performance AMR functions in logistics. ROS driver for Interfacing with Triton sensor  (see [`accerion-ros-node`](https://gitlab.com/accerion/accerion-ros-node)). | 2015 |
