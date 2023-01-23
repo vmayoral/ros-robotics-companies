@@ -471,6 +471,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Udacity](http://www.udacity.com) | Develop an online learning platform offering programs in [artificial intelligence](https://www.udacity.com/enterprise/artificial-intelligence), machine learning, and robotics sector. ROS package for Udacity (see [`udacity`](https://github.com/udacity)). | 2011 |
 | [UFACTORY](http://www.ufactory.cc) | Develop and manufacture robotics systems. Focus on creating robotic arms. ROS Drivers for communicating with UFACTORY robotics arms (see [`uArm-Developer`](https://github.com/uArm-Developer)). | 2013 |
 | [Unbox Robotics](https://unboxrobotics.com/) | Builds software-defined robotics systems to enable logistics players to automate and radically improve their operations on-demand in a limited footprint and capital. Hiring ROS engineers ([Robotics Software Engineer](https://www.spottabl.com/unboxrobotics/robotics-software-engineer-213974)). | 2019 | 
+| [United Robots](https://www.unitedrobots.co/) | Mobile robotic solutions for safer, cleaner and healthier spaces  Uses ROS and Navigation stack to build their robots. | 2016 | 
 | [United Robotics Group](https://unitedrobotics.group) | Young service robotics companies into a unique ecosystem by bundling hardware and software expertise under one roof. Using ROS across companies in the group. Acquired Robotnik who's a very active user of ROS[^309] | 2019 | 
 | [Unitree](https://www.unitree.com/) | Focus on the development, production and sales of high-performance quadruped robots[^83]. The company develop robot core components, motion control, robot perception, etc. ROS simulation packages for Unitree robots (see [`unitree_ros`](https://github.com/unitreerobotics/unitree_ros)). | 2016 |
 | [Universal Robots](https://www.universal-robots.com/) | Develop and sell industrial robots that automate industrial processes. The ROS driver works with all UR cobots that come with a CB3 or UR series. Hosts drivers for usage with the ROS (see [`UniversalRobots`](https://github.com/UniversalRobots))[^9] for CB3 and e-Series where RTDE is available.   | 2005 |
@@ -549,6 +550,17 @@ A public list of companies that are known to use the Robot Operating System (ROS
 ### Contribute
 
 Send a Pull Request with additions, modifications or removals. For new contributions, **please indicate how you're using ROS** (which distro you're using, which packages, etc.). Make sure to hint how you're related to the organization if suggesting a relevant change.
+
+### `ROS` stacks
+
+Lists companies known to use popular ROS stacks.
+
+#### Navigation
+
+| Company | Description | Year Founded| 
+|---------|-------------|-------------|
+| [United Robots](https://www.unitedrobots.co/) | Mobile robotic solutions for safer, cleaner and healthier spaces  Uses ROS and Navigation stack to build their robots. | 2016 | 
+
 
 
 [^1]: Robot Immune System https://aliasrobotics.com/ris.php
