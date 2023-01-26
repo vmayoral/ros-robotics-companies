@@ -565,6 +565,7 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 Lists companies known to use popular ROS stacks.
 
 #### Navigation
+<!-- navigation -->
 
 | Company | Description | Year Founded| 
 |---------|-------------|-------------|
@@ -572,7 +573,7 @@ Lists companies known to use popular ROS stacks.
 | [ADLINK Technology](https://www.adlinktech.com/en/index) | ADLINK is using Nav2 in their products like the ROScube-X series of embedded systems for robots. The ROScube-X series includes a range of powerful embedded computers that are pre-installed with the ROS 2 framework and the Nav2 stack (see [`Adlink-ROS/navigation2`](https://github.com/Adlink-ROS/navigation2)) | 1995 |
 | [Angsa Robotics](https://angsa-robotics.com) | Uses ROS and Navigation stack to build their robots (see [`angsa-robotics/navigation2`](https://github.com/angsa-robotics/navigation2)). | 2019 | 
 | [Arendai](https://www.arendai.com/) | Use Nav2 Stack as an interface to control robots (simulations and own robots) (see [`Arendai/navigation2`](https://github.com/Arendai/navigation2)). | 2019 | 
-| [Bosch](https://www.bosch.com/) | Uses the Nav2 stack, an open-source robotic navigation stack, in their autonomous systems, such as drones and self-driving cars (see [`boschresearch/navigation2`](https://github.com/boschresearch/navigation2)).   | 1886 | 
+| [Bosch](https://www.bosch.com/) | Uses the Nav2 stack, an open-source robotic navigation stack, in their autonomous systems, such as AMRs and self-driving cars (see [`boschresearch/navigation2`](https://github.com/boschresearch/navigation2)).   | 1886 | 
 | [BotsAndUs](https://www.botsandus.com/) | They use the Nav2 stack to help their robots navigate autonomously in various environments. (see [`botsandus/navigation2`](https://github.com/botsandus/navigation2)). | 2015 |
 | [Brisa Robótica](https://www.brisa.tech/) | Automate existing vehicles or develop new ones. Uses ROS and Navigation stack to build their robots (see [`brisa-robotics/navigation2`](https://github.com/brisa-robotics/navigation2)). | 2018 |
 | [Coalescent Mobile Robotics](https://cm-robotics.com/) | Uses the Nav2 stack to help their robots navigate through various environments (see [`cmrobotics/navigation2`](https://github.com/cmrobotics/navigation2)). | 2018 |
