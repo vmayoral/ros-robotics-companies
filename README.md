@@ -1,8 +1,8 @@
-[![](https://img.shields.io/badge/ros%20robotics%20companies-550-4d4cf5.svg)](https://github.com/vmayoral/ros-robotics-companies#active-companies) [![](https://img.shields.io/badge/acquired%20ros%20robotics%20companies-20-00a679.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive)
+[![](https://img.shields.io/badge/ROS%20robotics%20companies-508-4d4cf5.svg)](https://github.com/vmayoral/ros-robotics-companies#active-companies) [![](https://img.shields.io/badge/acquired%20ROS%20robotics%20companies-20-00a679.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive) [![](https://img.shields.io/badge/navigation%20ROS%20users-17-bdf271.svg)](https://github.com/vmayoral/ros-robotics-companies#navigation)
 
 # ROS Robotics Companies
 
-[**Active companies**](#active-companies) ┃ [<ins>Acquired, closed or inactive</ins>](#companies-acquired-closed-or-inactive) | [Contribute](#contribute)
+[**Active companies**](#active-companies) ┃ [<ins>Acquired, closed or inactive</ins>](#companies-acquired-closed-or-inactive) | [Contribute](#contribute) | [`navigation` users](#navigation)
 
 
 A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products or to offer services. Ordered alphabetically.
@@ -10,7 +10,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 
 
 ### Active companies
-
+<!-- !companies! -->
 | Company | Description | Year Founded| 
 |---------|-------------|------|
 | [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration solutions for robots using ROS 2. Robot-specific processing unit ([`ROBOTCORE®`](https://accelerationrobotics.com/products.php)), FPGA and GPU hardware acceleration tools (e.g. [`ROBOTCORE®` Framework](https://accelerationrobotics.com/robotcore-framework.php)) and ROS 2 API-compatible robot Intellectual Property (IP) cores (`robot cores` such as [`ROBOTCORE®` Perception](https://accelerationrobotics.com/robotcore-perception.php) or [`ROBOTCORE®` Transform](https://accelerationrobotics.com/robotcore-transform.php)). | 2020 |
@@ -521,10 +521,10 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [ZF](https://www.zf.com/mobile/en/homepage/homepage.html) | Company supplies systems for passenger cars, commercial vehicles and industrial technology in four technology domains: Vehicle Motion Control, Integrated Safety, Automated Driving, and Electric Mobility. They are known to be using ROS 2 forks[^210] to develop software. | 1915 | 
 | [ZMP](https://www.zmp.co.jp/en) | Provide robot infrastructure,  autonomous vehicles[^53], automotive technology and sensing technology[^54]. ROS Nodes for RoboCar[^55] (see [`robocar110_ros`](https://github.com/zmp/robocar110_ros)). | 2001 | 
 | [ZVISION](http://www.zvision.xyz) | Provide [automotive-grade](http://www.zvision.xyz/en/Solution/index.aspx) solid-state LiDAR solution for autonomous driving applications. ROS driver for ZVISION Lidar (see [`zvision_ros_driver`](https://github.com/ZVISION-lidar/zvision_ros_driver)). | 2017 |
-
+<!-- !end-companies! -->
 
 ### Companies acquired, closed or inactive
-
+<!-- !acquired! -->
 | Company | Description | Year Founded | Reason |
 |---------|-------------|--------------|--------|
 | [Acutronic Robotics](https://web.archive.org/web/20190630193757/https://acutronicrobotics.com/) | DARPA and Sony backed company offering modularity for industrial robots. ROS 2-native  hardware components for robots. System integration. H-ROS (Hardware Robot Operating System). | 2016 | <ins>Closed</ins>, lack of funding[^188] (2019) |
@@ -553,7 +553,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Xilinx](https://www.xilinx.com) | Adaptive computing leader. Creator of the FPGA. Various robotics silicon solutions featuring CPUs and FPGAs. Kria SOMs robotics strategy was built around ROS 2[^218] | 1984 | **Acquired** (2021, AMD, $35 billion[^219]) |
 | [5D Robotics](https://web.archive.org/web/20180319195556/https://5drobotics.com/) | 5D Robotics is a software company that accelerates human productivity and safety in an evolving, dynamic world. | 2009 | **Acquired** (2018, Humatics) |
 | [6 River Systems](https://6river.com/) | Manufacturer of autonomous mobile robots (AMRs) built with ROS, artificial intelligence and operational experience. Through the use of robotics[^4], they make warehouses more efficient[^5].| 2015 | **Acquired** (2019, Shopify, 450M USD) |
-
+<!-- !end-acquired! -->
 
 
 ### Contribute
@@ -565,8 +565,9 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 Lists companies known to use popular ROS stacks.
 
 #### Navigation
-<!-- navigation -->
+Lists companies known to use the ROS Navigation stack.
 
+<!-- !navigation! -->
 | Company | Description | Year Founded| 
 |---------|-------------|-------------|
 | [ADLATUS Robotics GmbH](http://www.adlatus-robotics.com) | Uses the Nav2 stack for autonomous mobile robots to use in industrial environments such as manufacturing, logistics, and warehousing (see [`adlatusrobotics/navigation2`](https://github.com/adlatusrobotics/navigation2)). | 2015 | 
@@ -586,9 +587,17 @@ Lists companies known to use popular ROS stacks.
 | [Kiwibot](https://www.kiwibot.com/) | Uses Nav2 in their delivery robots to enable them to navigate and move around in the environment safely and efficiently (see [`kiwicampus/navigation2`](https://github.com/kiwicampus/navigation2)). | 2017 |
 | [Locus Robotics](https://locusrobotics.com/industry_solutions/industrial/) | Uses  Nav2 in their autonomous mobile robots, which are designed for warehouse automation. These robots use the Nav2 stack to localize themselves in the warehouse environment, map the warehouse, and plan and execute safe and efficient paths to move products from one location to another. (see [`locusrobotics/navigation2`](https://github.com/locusrobotics/navigation2)). | 2014 |
 | [United Robots](https://www.unitedrobots.co/) | Mobile robotic solutions for safer, cleaner and healthier spaces  Uses ROS and Navigation stack to build their robots. | 2016 | 
+<!-- !end-navigation! -->
 
+#### Manipulation
+Lists companies known to use the ROS Manipulation stack (MoveIt).
+<!-- !manipulation! -->
+| Company | Description | Year Founded| 
+|---------|-------------|-------------|
+| | |
+<!-- !end-manipulation! -->
 
-
+<!-- !references! -->
 [^1]: Robot Immune System https://aliasrobotics.com/ris.php
 [^2]: https://whill.inc/jp/
 [^3]: https://whill.inc/jp/news/25181
