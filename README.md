@@ -661,7 +661,16 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 <!-- !manipulation! -->
 | Company | Description | Year Founded| 
 |---------|-------------|-------------|
-| | |
+| [eBots](http://www.ebots.com) | Use the MoveIt2 stack as part of their software to plan and execute motion for their robotic systems (see [`ebots-inc/moveit2`](https://github.com/ebots-inc/moveit2)). | 2017 | 
+| [Forssea Robotics](http://www.forssea-robotics.fr) | Uses ROS and Manipulation stack to build their robots (see [`forssea-robotics/moveit2`](https://github.com/forssea-robotics/moveit2)). | 2016 | 
+| [KiQ Robotics](https://kiq-robotics.co.jp/) | Uses ROS and Manipulation stack to build their robots (see [`KiQ-Robotics/moveit2`](https://github.com/KiQ-Robotics/moveit2)). | 2019 | 
+| [Miso Robotics](https://misorobotics.com) | Use the MoveIt2 stack as part of their software infrastructure to control the motion of their robotic systems and to perform complex tasks such as preparing food items in a commercial kitchen (see [`MisoRobotics/moveit2`](https://github.com/MisoRobotics/moveit2)). | 2016 |
+| [PickNik Robotics](https://picknik.ai/) | Use the MoveIt2 stack as part of their software to plan and execute motion for their robotic systems (see [`PickNikRobotics/moveit2`](https://github.com/PickNikRobotics/moveit2)). | 2015 |
+| [Pilz](https://www.pilz.com/en-US) | Use the MoveIt2 stack to development of robotic systems and applications that require precise motion planning and execution (see [`PilzDE/moveit2`](https://github.com/PilzDE/moveit2)). | 1948 |
+| [Quasi Robotics](https://quasi.ai) | Use the MoveIt2 stack as part of their software to plan and execute motion for their robotic systems (see [`quasi-robotics/moveit2`](https://github.com/quasi-robotics/moveit2)). | 2017 | 
+| [RIF Robotics](https://www.rifrobotics.com) | Uses ROS and Manipulation stack to build their robots (see [`RIF-Robotics/moveit2`](https://github.com/RIF-Robotics/moveit2)). | 2020 | 
+| [spinbotics](http://spinbotics.com) | Use this software to develop and implement robotic applications that require motion planning and control (see [`Spinbotics-s-r-o/moveit2`](https://github.com/Spinbotics-s-r-o/moveit2)). | 2020 | 
+| [Stogl Robotics](https://www.stoglrobotics.de/) | Use the MoveIt2 stack as part of their software to plan and execute motion for their robotic systems (see [`StoglRobotics-forks/moveit2`](https://github.com/StoglRobotics-forks/moveit2)). | 2021 |
 <!-- !end-manipulation! -->
 
 <!-- !references! -->
