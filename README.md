@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/ROS%20robotics%20companies-571-4d4cf5.svg)](https://github.com/vmayoral/ros-robotics-companies#active-companies) [![](https://img.shields.io/badge/acquired%20ROS%20robotics%20companies-20-00a679.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive) [![](https://img.shields.io/badge/navigation%20ROS%20users-42-bdf271.svg)](https://github.com/vmayoral/ros-robotics-companies#navigation)
+[![](https://img.shields.io/badge/ROS%20robotics%20companies-583-4d4cf5.svg)](https://github.com/vmayoral/ros-robotics-companies#active-companies) [![](https://img.shields.io/badge/acquired%20ROS%20robotics%20companies-20-00a679.svg)](https://github.com/vmayoral/ros-robotics-companies#companies-acquired-closed-or-inactive) [![](https://img.shields.io/badge/navigation%20ROS%20users-42-bdf271.svg)](https://github.com/vmayoral/ros-robotics-companies#navigation)
 
 # ROS Robotics Companies
 
