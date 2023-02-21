@@ -781,6 +781,15 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [Yaskawa Motoman](https://www.motoman.com) | The company uses the ROS Manipulation stack (MoveIt) in the MH12/MH50/MH12/SIA5D/SIA20/SIA10D (see [`ros-industrial/motoman_experimental`](https://github.com/ros-industrial/motoman_experimental)). | 1989 | 
 <!-- !end-manipulation! -->
 
+
+#### Perception
+Lists companies known to use the [ROS Perception stack](https://github.com/ros-perception).
+<!-- !perception! -->
+| Company | Description | Year Founded|
+|---------|-------------|-------------|
+|  |  |  |
+<!-- !end-perception! -->
+
 <!-- !references! -->
 [^1]: Robot Immune System https://aliasrobotics.com/ris.php
 [^2]: https://whill.inc/jp/
