@@ -13,7 +13,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 <!-- !companies! -->
 | Company | Description | Year Founded| 
 |---------|-------------|------|
-| [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration solutions for robots using ROS 2. Robot-specific processing unit ([`ROBOTCORE®`](https://accelerationrobotics.com/products.php)), FPGA and GPU hardware acceleration tools (e.g. [`ROBOTCORE®` Framework](https://accelerationrobotics.com/robotcore-framework.php)) and ROS 2 API-compatible robot Intellectual Property (IP) cores (`robot cores` such as [`ROBOTCORE®` Perception](https://accelerationrobotics.com/robotcore-perception.php) or [`ROBOTCORE®` Transform](https://accelerationrobotics.com/robotcore-transform.php)). | 2020 |
+| [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration solutions for robots using ROS 2. Robot-specific processing unit ([`ROBOTCORE®`](https://accelerationrobotics.com/products.php)), FPGA and GPU hardware acceleration tools (e.g. [`ROBOTCORE®` Framework](https://accelerationrobotics.com/robotcore-framework.php)) and ROS 2 API-compatible robot Intellectual Property (IP) cores (`robot cores` such as [`ROBOTCORE®` Perception](https://accelerationrobotics.com/robotcore-perception.php) or [`ROBOTCORE®` Transform](https://accelerationrobotics.com/robotcore-transform.php)). | 2021 |
 | [Accenture](https://www.accenture.com/in-en) | One of the biggest consulting firms. Offering robotics and edge computing consulting services around ROS and seeking for that talent[^281] | 1989 |
 | [Accerion](https://accerion.tech/) | Make infrastructure-free positioning technology for mobile robots and AGVs. Triton[^79], simplify high-performance AMR functions in logistics. ROS driver for Interfacing with Triton sensor  (see [`accerion-ros-node`](https://gitlab.com/accerion/accerion-ros-node)). | 2015 |
 | [Accio Robotics](https://www.acciorobotics.com/) | Design and manufacture of state-of-the-art Robotics Automation solutions.  Hiring ROS engineers ([Robotics Software Engineer](https://angel.co/company/accio-robotics-1/jobs/1442403-robotics-software-engineer)). | 2019 | 
@@ -787,7 +787,7 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 <!-- !perception! -->
 | Company | Description | Year Founded|
 |---------|-------------|-------------|
-|  |  |  |
+| [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration solutions for robots using ROS 2. Use the ROS 2 perception stack actively in customer projects and serve [`ROBOTCORE®` Perception](https://accelerationrobotics.com/robotcore-perception.php), an optimized robotic perception stack that leverages hardware acceleration to provide a speedup in perception computations (while remaining API-compatible with the default ROS 2 perception stack). | 2021 |
 <!-- !end-perception! -->
 
 <!-- !references! -->
