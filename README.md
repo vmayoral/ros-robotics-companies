@@ -660,7 +660,7 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 Lists companies known to use popular ROS stacks.
 
 #### Navigation
-Lists companies known to use the ROS Navigation stack.
+Lists companies known to use the ROS Navigation stack and ROS 2's Nav2 framework.
 
 <!-- !navigation! -->
 | Company | Description | Year Founded| 
