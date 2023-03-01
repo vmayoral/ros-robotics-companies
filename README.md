@@ -810,6 +810,33 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 | Company | Description | Year Founded|
 |---------|-------------|-------------|
 | [Acceleration Robotics](https://accelerationrobotics.com) | Hardware Acceleration solutions for robots using ROS 2. Use the ROS 2 perception stack actively in customer projects and serve [`ROBOTCORE®` Perception](https://accelerationrobotics.com/robotcore-perception.php), an optimized robotic perception stack that leverages hardware acceleration to provide a speedup in perception computations (while remaining API-compatible with the default ROS 2 perception stack). | 2021 |
+| [Badger Technologies](http://www.badger-technologies.com/) | ROS Perception drivers (laser_filters) for Badger Technologies (see [`BadgerTechnologies/laser_filters`](https://github.com/BadgerTechnologies/laser_filters)).| 2017 | 
+| [Bluewhale Robot](http://www.bwbot.org) | ROS Perception drivers (laser_filters) for Bluewhale Robot (see [`BluewhaleRobot/laser_filters`](https://github.com/BluewhaleRobot/laser_filters)). | 2015 | 
+| [Brain Corp](http://braincorp.com/) | ROS Perception drivers (laser_filters) for Brain Corp (see [`braincorp/laser_filters`](https://github.com/braincorp/laser_filters)). | 2009 | 
+| [Clearpath Robotics](https://clearpathrobotics.com/) | ROS Perception drivers (laser_filters) (see [`clearpathrobotics/laser_filters`](https://github.com/clearpathrobotics/laser_filters)) and PCL (Point Cloud Library) ROS interface stack (see [`clearpathrobotics/perception_pcl`](https://github.com/clearpathrobotics/perception_pcl)) for Clearpath Robotics. | 2009 |
+| [Coalescent Mobile Robotics](https://cm-robotics.com/) | PCL (Point Cloud Library) ROS interface stack for Coalescent Mobile Robotics (see [`cmrobotics/perception_pcl`](https://github.com/cmrobotics/perception_pcl)). | 2018 |
+| [Constructive Realities](http://constructiverealities.io) | PCL (Point Cloud Library) ROS interface stack for Constructive Realities (see [`constructiverealities/perception_pcl`](https://github.com/constructiverealities/perception_pcl)). | 2022 | 
+| [Eurogroep](http://www.eurogroep.com) |  ROS Perception drivers (laser_filters) for Eurogroep (see [`eurogroep/laser_filters`](https://github.com/eurogroep/laser_filters)).| 2005 | 
+| [Filics](http://www.filics.eu) | ROS Perception drivers (laser_filters) for Filics (see [`FutureInLogistics/laser_filters`](https://github.com/FutureInLogistics/laser_filters)). | 2016 | 
+| [Iron Ox](https://ironox.com/) | ROS Perception drivers (laser_filters) for Iron Ox (see [`iron-ox/laser_filters`](https://github.com/iron-ox/laser_filters)). | 2015 |
+| [FireFly Automatix](https://fireflyautomatix.com) | ROS Perception drivers (perception_pcl) for FireFly Automatix (see [`fireflyautomatix/perception_pcl`](https://github.com/fireflyautomatix/perception_pcl)). | 2010 |
+| [Fizyr](http://www.fizyr.com) | PCL (Point Cloud Library) ROS interface stack for Fizyr (see [`fizyr-forks/perception_pcl`](https://github.com/fizyr-forks/perception_pcl)). | 2014 | 
+| [Locus Robotics](https://locusrobotics.com/industry_solutions/industrial/) | PCL (Point Cloud Library) ROS interface stack for Locus Robotics (see [`locusrobotics/perception_pcl`](https://github.com/locusrobotics/perception_pcl)). | 2014 |
+| [Magna International](https://www.magna.com/) | ROS Perception drivers (laser_filters) for Magna International (see [`MagnaRobotics/laser_filters`](https://github.com/MagnaRobotics/laser_filters)). | 1957 |
+| [Milvus Robotics](https://milvusrobotics.com) | ROS Perception drivers (laser_filters) for Milvus Robotics (see [`milvusrobotics/laser_filters`](https://github.com/milvusrobotics/laser_filters)). | 2011 | 
+| [Motius](https://motius.de/) | ROS Perception drivers (laser_filters) for Motius (see [`motius/laser_filters`](https://github.com/motius/laser_filters)). | 2013 | 
+| [Nexuni Co. Ltd.](www.nexuni.com) | ROS Perception drivers (laser_filters) for Nexuni (see [`nexuni/laser_filters`](https://github.com/nexuni/laser_filters)). | 2019 |
+| [PAL Robotics](https://pal-robotics.com/) | PCL (Point Cloud Library) ROS interface stack for PAL Robotics (see [`pal-robotics-forks/perception_pcl`](https://github.com/pal-robotics-forks/perception_pcl)). | 2004 |
+| [Rapyuta Robotics](https://www.rapyuta-robotics.com/) | PCL (Point Cloud Library) ROS interface stack for Rapyuta Robotics (see [`rapyuta-robotics/perception_pcl`](https://github.com/rapyuta-robotics/perception_pcl)). | 2014 | 
+| [Seasony](https://www.seasony.io/) | ROS Perception drivers (laser_filters) for Seasony (see [`seasony-org/laser_filters`](https://github.com/seasony-org/laser_filters)). | 2018 | 
+| [Smart Machine](http://www.oxin.nz) | PCL (Point Cloud Library) ROS interface stack for Smart Machine (see [`oxin-ros/perception_pcl`](https://github.com/oxin-ros/perception_pcl)). | 2018 | 
+| [Smile Robotics, Inc.](smilerobotics.com) | ROS Perception drivers (laser_filters) for Smile Robotics (see [`smilerobotics/laser_filters`](https://github.com/smilerobotics/laser_filters)). | 2019 | 
+| [TECNALIA](http://www.tecnalia.com) | ROS Perception drivers (laser_filters) for TECNALIA (see [`tecnalia-advancedmanufacturing-robotics/laser_filters`](https://github.com/tecnalia-advancedmanufacturing-robotics/laser_filters)). | 2015 |
+| [Stratom](http://www.stratom.com) | PCL (Point Cloud Library) ROS interface stack for Stratom (see [`StratomInc/perception_pcl`](https://github.com/StratomInc/perception_pcl)). | 2001 | 
+| [TIER IV](https://tier4.jp/en/) | PCL (Point Cloud Library) ROS interface stack for TIER IV (see [`tier4/perception_pcl`](https://github.com/tier4/perception_pcl)). | 2015 |
+| [Vaarst](https://vaarst.com/) | PCL (Point Cloud Library) ROS interface stack for Vaarst (see [`rovco/perception_pcl`](https://github.com/rovco/perception_pcl)). | 2015 | 
+| [Wyca Robotics](https://www.wyca-robotics.fr/) | ROS Perception drivers (laser_filters) for Wyca Robotics (see [`wyca-robotics/laser_filters`](https://github.com/wyca-robotics/laser_filters)). | 2015 |
+
 <!-- !end-perception! -->
 
 <!-- !references! -->
