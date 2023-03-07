@@ -724,7 +724,6 @@ Lists companies known to use the ROS Navigation stack and ROS 2's Nav2 framework
 | [United Robots](https://www.unitedrobots.co/) | Mobile robotic solutions for safer, cleaner and healthier spaces  Uses ROS and Navigation stack to build their robots. | 2016 | 
 | [Unmanned Life](http://unmanned.life) | Uses ROS and Navigation stack to build their robots (see [`umdlife/navigation2`](https://github.com/umdlife/navigation2)). | 2015 | 
 | [Vayu Robotics](http://www.vayurobotics.com) | Uses the Nav2 Stack for better integration with other systems, such as control and monitoring software, and provides a platform for further development and innovation (see [`Vayu-Robotics/navigation2`](https://github.com/Vayu-Robotics/navigation2)). | 2022 | 
-https://github.com/wyca-robotics/laser_filters| [Yujin Robot](https://yujinrobot.com/) | Uses ROS and Navigation stack to build their robots (see [`Robots`](https://navigation.ros.org/about/robots.html)). | 1988 |
 <!-- !end-navigation! -->
 
 #### Manipulation
