@@ -65,7 +65,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [ARM Institute](http://www.arminstitute.org) | Accelerate the development and adoption of innovative robotics technologies. Make robotics, autonomy and artificial intelligence more accessible to U.S. manufacturers. An analysis of how the ARM projects have used ROS[^114]. | 2017 |
 | [ARTI](https://www.arti-robots.com) | The development and sale of innovative and modular AI-Software-Kits for autonomous mobile robots are ARTIs core competences. The AI Kits are compatible with ROS 1 and soon ROS 2. Additionally, ARTI offers extensive services and comprehensive knowledge and consultancy about the implementation and deployment of robots and related sensors. | 2019 |
 | [Artisense](https://www.artisense.ai) | Provide a globally leading 3D-vision technology, enabling vehicles, robots and UAVs navigate effectively in any space without GPS. Artisense provides ROS 1 and ROS 2 support, making it quick and simple for clients to work with our system [^175]. | 2016 |
-| [Asea Brown Boveri (ABB)](https://global.abb/group/en) | Provide power and automation technologies for smart grids, robotics, electric cars, renewable energy and motors. The company is [currently members](https://rosindustrial.org/ric/current-members/#abb) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial/abb)). | 1988 | 
+| [Asea Brown Boveri (ABB)](https://global.abb/group/en) | Provide power and automation technologies for smart grids, robotics, electric cars, renewable energy and motors. The company is [currently members](https://rosindustrial.org/ric/current-members/#abb) of ROS-Industrial. | 1988 | 
 | [Ascent Robotics](https://www.ascent.ai) | Develop intelligent solutions in industrial robotics and autonomous vehicles. Deliver software to achieve true machine autonomy. ROS drivers (see [`ascentai`](https://github.com/ascentai)). | 2016 |
 | [ASIMOV Robotics](http://www.asimovrobotics.com) | Supply Robot and machine vision systems, control and simulation software, navigation systems, educational robots, industrial robots, and sensors and sensor modules. The software system of some robots is written entirely in [ROS](http://wiki.ros.org/Robots/X-Terrabot). | 2012 |
 | [Atlas Robotics](https://www.atlas-robotics.com) | Fully autonomous L4 pallet trucks/stackers for indoor factories, making them as standalone products or autonomy kits. Develop entire software stack in house with ROS. | 2021 |
@@ -202,7 +202,6 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [E-TERRY](https://e-terry.de/) | Develop small-scale agricultural machinery. Hiring ROS engineers ([Software Engineer](https://e-terry.de/vacancies/)). | 2022 | 
 | [F&P Robotics](http://www.fp-robotics.com) | Develop humanoid robots for personal and professional use. The company uses the ROS Manipulation stack (MoveIt) in the [P-Rob 2R](https://moveit.ros.org/robots/). | 2014 | 
 | [Fairmat](https://www.fairmat.tech/) | Bring a way to recycle carbon fiber composite. Use robotics to automate recycling processes. Looking for ROS talent[^291] | 2020 |
-| [FANUC](https://www.fanuc.com/) | Provide automation products and services such as robotics and computer numerical control systems. ROS-Industrial Fanuc meta-package (see [`fanuc`](https://github.com/ros-industrial/fanuc))[^30]. | 1972 |
 | [FastLogic](http://www.fastlogic.pl) | Provide technology and software solutions. ROS used for industrial use cases. Participation in ROS-Industrial Conference 2022. | 2012 | 
 | [FastSense](http://www.fastsense.tech) | Develop autonomus navigation solutions for in-door drones and wheeled robots and applied AI algorithms for data processing. | 2017 | 
 | [FarmWise](http://farmwiselabs.com) | Provide technology-based services that allow farmers to streamline farm operations and increase food production efficiency.  Code for working with images in ROS (see [`image_common`](https://github.com/FarmWise/image_common)). | 2016 |
@@ -308,7 +307,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Kopernikus Automotive](https://www.kopernikusauto.com/) | Develop automated valet parking technology[^123], which describes an autonomous driving solution. Pure Rust implementation of a ROS client library (see [`rosrust`](https://github.com/kopernikusauto/rosrust)). | 2016 |
 | [KPIT](https://www.kpit.com/) | Global partner to the automotive and mobility ecosystem for making software-defined vehicles a reality. Hiring ROS talent[^290] | 1990 |
 | [Kudan](https://www.kudan.io/) | Provides artificial perception technologies based on SLAM, to use in autonomous driving, robotics, AR/VR and smart cities. Turtlebot running ROS with 2D LiDAR, and added Kudan SLAM as a ROS navigation module [^92]. | 2010 |
-| [KUKA](http://www.kuka.com) | Is a manufacturer of robotic systems, offering a wide range of industrial robots and robot systems. ROS-Industrial KUKA support (see [`kuka`](https://github.com/ros-industrial/kuka)). Actively seeking for ROS engineers[^241] | 1898 |
+| [KUKA](http://www.kuka.com) | Is a manufacturer of robotic systems, offering a wide range of industrial robots and robot systems. Hiring ROS engineers ([Robot Operating System Intern](https://www.linkedin.com/jobs/view/3253050338)). | 1898 |
 | [Kyocera](https://global.kyocera.com/robotics/) | Supply industrial and automotive components, semiconductor packages, electronic devices, smart energy systems, printers, copiers and mobile phones. The company is [currently member](https://rosindustrial.org/ric/current-members/#kyocera) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^144]. | 1959 |
 | [Labrador Systems](https://labradorsystems.com) | Create practical robots that physically assist in everyday tasks using ROS[^237]. | 2017 |
 | [Lanner](https://www.lannerinc.com) | Hardware provider with design, engineering, and manufacturing services for advanced network appliances, ruggedized in-vehicle, industrial computers, power substation computers and edge AI appliances. Offers ROS 2 support through third party solutions in their embedded devices[^214]. Also leverages ROS 2 hardware acceleration solutions. | 1978 |
@@ -749,7 +748,6 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [eBots](http://www.ebots.com) | Use the MoveIt2 stack as part of their software to plan and execute motion for their robotic systems (see [`ebots-inc/moveit2`](https://github.com/ebots-inc/moveit2)). | 2017 |
 | [Elephant Robotics](elephantrobotics.com/en/) | The company uses the ROS Manipulation stack (MoveIt) in the MyCobot (see [`elephantrobotics/mycobot_ros`](https://github.com/elephantrobotics/mycobot_ros)). | 2016 |
 | [F&P Robotics](http://www.fp-robotics.com) | The company uses the ROS Manipulation stack (MoveIt) in the [P-Rob 2R](https://moveit.ros.org/robots/). | 2014 |
-| [FANUC](https://www.fanuc.com/) | The company uses the ROS Manipulation stack (MoveIt) in the m10ia (see [`ros-industrial/fanuc`](https://github.com/ros-industrial/fanuc)). | 1972 |
 | [Forssea Robotics](http://www.forssea-robotics.fr) | Uses ROS and Manipulation stack to build their robots (see [`forssea-robotics/moveit2`](https://github.com/forssea-robotics/moveit2)). | 2016 | 
 | [Franka Emika](http://www.franka.de) | The company uses the ROS Manipulation stack (MoveIt) in the Panda (see [`frankaemika/franka_ros`](https://github.com/frankaemika/franka_ros)). | 2016 |
 | [Fujitsu](http://www.fujitsu.com/) | The company uses the ROS Manipulation stack (MoveIt) in the [HOAP-3](https://moveit.ros.org/robots/). | 1935 |  
@@ -868,7 +866,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^27]: https://coex.tech/pelicanairdelivery
 [^28]: https://www.botsandus.com/platform
 [^29]: https://www.bitcraze.io/products/crazyflie-2-1/
-[^30]: http://wiki.ros.org/fanuc
 [^31]: https://www.innok-robotics.de/en/products/
 [^32]: https://www.cogniteam.com/nimbus
 [^33]: https://assistive.kinovarobotics.com/product/jaco-robotic-arm
@@ -1082,7 +1079,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^238]: https://www.linkedin.com/jobs/view/3268155705/
 [^239]: https://www.linkedin.com/jobs/view/3289018523
 [^240]: https://www.linkedin.com/jobs/view/3289006477
-[^241]: https://www.linkedin.com/jobs/view/3253050338
 [^242]: https://www.linkedin.com/jobs/view/3264971272
 [^243]: https://www.linkedin.com/jobs/view/3248361044
 [^244]: https://www.linkedin.com/jobs/view/3291491344
