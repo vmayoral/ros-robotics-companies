@@ -740,7 +740,6 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [Kawasaki](https://global.kawasaki.com) | The company uses the ROS Manipulation stack (MoveIt) in the Duaro (see [`Kawasaki-Robotics/khi_robot`](https://github.com/Kawasaki-Robotics/khi_robot)). | 1896 |
 | [Kinova Robotics](https://assistive.kinovarobotics.com/) | The company uses the ROS Manipulation stack (MoveIt) in the Jaco/Jaco2/MICO/Movo (see [`Kinovarobotics/kinova-ros/tree/master/kinova_moveit`](https://github.com/Kinovarobotics/kinova-ros/tree/master/kinova_moveit)). | 2006 | 
 | [KiQ Robotics](https://kiq-robotics.co.jp/) | Uses ROS and Manipulation stack to build their robots (see [`KiQ-Robotics/moveit2`](https://github.com/KiQ-Robotics/moveit2)). | 2019 | 
-| [KUKA](http://www.kuka.com) | The company uses the ROS Manipulation stack (MoveIt) in the LBR/LWR (see [`ros-industrial/kuka_experimental`](https://github.com/ros-industrial/kuka_experimental)). | 1898 |
 | [Lynxmotion](https://www.lynxmotion.com/) | The company uses the ROS Manipulation stack (MoveIt) in the [Servo Erector Arm](https://moveit.ros.org/robots/). | 1995 | 
 | [Meka Robotics](http://mekabot.com) | The company uses the ROS Manipulation stack (MoveIt) in the [M3](https://moveit.ros.org/robots/). | 2007 |  
 | [MindHome](http://www.mindhome.co) | Uses the ROS Manipulation stack to enable their robotic arm to pick up and manipulate objects in a home environment (see [`MindHome-Inc/moveit`](https://github.com/MindHome-Inc/moveit)). | 2018 | 
