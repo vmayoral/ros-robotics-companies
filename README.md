@@ -4,7 +4,7 @@
 
 [**Active companies**](#active-companies) ┃ [<ins>Acquired, closed or inactive</ins>](#companies-acquired-closed-or-inactive) | [Contribute](#contribute) | [`navigation` users](#navigation)
 
-A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products or to offer services. Ordered alphabetically. See [criteria](#criteria) for more details.
+A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products, to offer services or who ship ROS with or as part of their product(s). Ordered alphabetically. See [criteria](#criteria) for more details.
 
 ### Active companies
 <!-- !companies! -->
@@ -689,7 +689,7 @@ Send a Pull Request with additions, modifications or removals. For new contribut
 ### Criteria
 
 The criteria to be included in the list is as follows:
-- The company must be known to use ROS or ROS 2 for development, to create products or to offer services.
+- The company must be known to use ROS or ROS 2 for development, to create products, to offer services or who ships ROS with or as part of their product(s).
 - Ideally, there should be a public reference to the company using ROS or ROS 2. This can be a blog post, a press release, a video, a tweet, a GitHub repository, a LinkedIn job offer highlighting their ROS focus, etc.
 
 **NOTE**: *Third party ROS drivers (e.g. community) or technology connectors (e.g. bridges) for a particular company's product or technology should not considered a reference to the company using ROS or ROS 2*.
