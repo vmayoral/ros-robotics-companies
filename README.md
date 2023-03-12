@@ -356,7 +356,6 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Milvus Robotics](https://milvusrobotics.com) | Offer Autonomous Mobile Robots (AMRs). SEIT[^34] robots move materials with no human intervention required. ROS Drivers for communicating with Milvus Robotics products (see [`milvusrobotics`](https://github.com/milvusrobotics)). | 2011 | 
 | [MindHome](http://www.mindhome.co) | Transform home experience with robots designed to cook, clean and fold laundry. ROS drivers for MindHome robots (see [`MindHome-Inc`](https://github.com/MindHome-Inc)). | 2018 | 
 | [Mitra Informatika](https://mit.id) | They help customer and app developer to build an application more powerful with one integrated platform. Hiring ROS engineers ([ADAS and AD Engineer](https://mit.id/jobs/adas)). | 2013 | 
-| [MITRE](https://www.mitre.org/) | US defense, cybersecurity, healthcare, homeland security, the judiciary and transportation firm. Hiring robotic engineers with ROS skills [^307] | 1958 | 
 | [Miso Robotics](https://misorobotics.com) | Robots-as-a-Service and intelligent automation solutions for the food industry, specially restaurants and fast-food production. Examples include robotic frying stations, vision-enabled grill systems and automatic beverage dispensers. Using ROS both at the edge and in the cloud[^295]. | 2016 |
 | [Mission Robotics](https://missionrobotics.us) | Building ROS 2-based observation and inspection ROVs and AUVs (focused on marine platforms) for enterprise and academic users[^182]. They also offer consulting services around robotics and ROS 2/DDS [^181]. | 2020 |
 | [Mitsubishi Electric](http://www.mitsubishielectric.com/) | Manufacture and sell electric and electronic equipment used in various systems and appliances. Mitsubishi supports ROS functions [^172]. | 1921 |
@@ -1207,7 +1206,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^304]: https://www.therobotreport.com/8-notable-robotics-acquisitions-in-2022/
 [^305]: https://fetchrobotics.com/fetch-robotics-blog/zebra-technologies-to-acquire-fetch-robotics/
 [^306]: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2016/mar/0311-cruise.html
-[^307]: https://www.linkedin.com/jobs/view/3429217836
 [^308]: https://www.linkedin.com/feed/update/urn:li:activity:7020419329082966016?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7020419329082966016%2C7020576945654419456%29
 [^309]: https://cobiotx.unitedrobotics.group/uploads/PR_Robotnik_ENG.pdf
 [^310]: ZED ROS Wrapper - https://github.com/stereolabs/zed-ros-wrapper
