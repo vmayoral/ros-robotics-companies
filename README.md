@@ -1247,3 +1247,4 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^312]: ZED ROS Examples - https://github.com/stereolabs/zed-ros-examples
 [^313]: ZED ROS2 Examples - https://github.com/stereolabs/zed-ros2-examples
 [^314]: Robotiq offering ROS support for their technology https://dof.robotiq.com/discussion/2634/how-to-communicate-to-the-robotiq-2f-85-gripper-via-ros-melodic-and-ur10e
+[^315]: NODE's view on ROSification https://node-robotics.com/nodes-view-on-rosification/
