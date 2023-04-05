@@ -157,11 +157,11 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Cyberbotics](https://cyberbotics.com) | Develop the Webots[^220] open-source robot simulator, including ROS[^221] and ROS 2[^222] interfaces, robot simulations on the web at webots.cloud[^223] and robotbenchmark.net[^224]. | 1998 |
 | [Cyberworks Robotics](https://www.cyberworksrobotics.com/) | An autonomous mobile robotics engineering company. Hiring ROS engineers ([ROBOTICS RESEARCH ENGINEERS](https://discourse.ros.org/t/open-positions-at-cyberworks-robotics/6313)). | 2008 | 
 | [Cyngn](https://www.cyngn.com/) | Autonomous Vehicle solutions and enterprise autonomy suite for industrial use cases across logistics, material handling, and mining. Hiring engineers with experience in ROS ([Senior Software Engineer](https://jobs.lever.co/cyngn/e83e6220-b3c2-47b9-80e9-e981518c3a3d)). | 2013 |
-| [Dairy Robotics](http://dairyrobotics.ie/) | Design and manufacture an animal health monitoring devices and advanced robotic milking solution. Working system integrated with ROS complete. | 2021 | 
+| [Dairy Robotics](http://dairyrobotics.ie/) | Design and manufacture an animal health monitoring devices and advanced robotic milking solution. Working system integrated with [ROS](http://dairyrobotics.ie/home_new/) complete. | 2021 | 
 | [Dataspeed](https://www.dataspeedinc.com/) | Offer engineered hardware and software tools to researchers and developers working on mobility and robotics solutions. Dataspeed's ADAS Kit (Advanced Driver Assistance Systems) provides research and development platform. ROS CAN driver for Dataspeed Drive-by-Wire Kit (see [`dataspeed_can_driver`](https://github.com/VT-ASIM-LAB/dataspeed_can_driver))[^24]. | 2008 | 
 | [Datavision](https://datavision.software) | In Datavision, we focus on machine vision, AI, mobile robotics and enterprise systems for industry. In REX project, we work with mobile robots and ROS2| 2004 |
 | [DeepEdge](https://deepedge.ai) | The DeepEdge platform is an integrated deep learning development platform that enables developers and enterprises to build, train, optimize and deploy deep learning models and applications to a variety of edge hardware. DeepEdge is investing in the The Robot Operating System ([ROS](https://deepedge.ai/services/FalconServices/)) | 2018 | 
-| [DEKA](http://www.dekaresearch.com/) | Medical Equipment Manufacturing. Building various robots, including robotic chairs. Seeking for ROS expertise in the robotics positions[^261] | 1982 |
+| [DEKA](http://www.dekaresearch.com/) | Medical Equipment Manufacturing. Building various robots, including robotic chairs. Hiring engineers with experience in ROS ([Control Systems Engineer](https://deka.applytojob.com/apply/gykkA8hM7Z/Control-Systems-Engineer)). | 1982 |
 | [Delivers.AI](https://delivers.ai/) | Design autonomous mobile robots to take food from the store to the buyers' homes. Hiring ROS engineers ([Embedded Software Engineer](https://delivers.ai/jobs.html)). | 2020 | 
 | [Delta Electronics](https://www.deltaww.com/en-US/index) | Manufacture custom power supply solutions for telecommunications, IT, industrial automation, and automotive applications. The company is [currently member](https://rosindustrial.org/ric/current-members/#delta-electronics) of ROS-Industrial, is an open-source project that extends the advanced capabilities of ROS to manufacturing automation and robotics (see [`ros-industrial`](https://github.com/ros-industrial))[^137]. | 1994 | 
 | [Demine Robotics](https://deminerobotics.com/) | Develop unmanned machines to make the demining process faster and safer. An image processing pipeline for ROS for Demine Robotics (see [`DemineRobotics/image_pipeline`](https://github.com/DemineRobotics/image_pipeline)). | 2016 | 
@@ -169,7 +169,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Detect Technologies](http://www.detecttechnologies.com) | Company offer solutions to help energy companies optimize their operations, improve safety, and increase efficiency. Hiring ROS engineers ([Robotics Simulation Developer](https://www.hireshala.com/job/hKQjaqOX/)). | 2016 | 
 | [Dexai Robotic](https://www.dexai.com) | The company specializes in the fields of robotics, machine vision, machine learning, AI, food service, automation, and restaurant equipment. An image processing pipeline for ROS for Dexai Robotics (see [`DexaiRobotics/image_pipeline`](https://github.com/DexaiRobotics/image_pipeline)). | 2018 |
 | [DF Automation & Robotics](https://www.dfautomation.com/) | Automation company that designs, manufactures, markets, and maintains Autonomous Mobile Robot[^77] (AMR) also known as Automated Guided Vehicles (AGV) for various kinds of industrial and commercial use. ROS drivers (see [`dfautomation`](https://github.com/dfautomation)). | 2012 |
-| [Diamond Age](http://www.didiglobal.com) | Construction robotics company. Automating new home construction through robotics. Using ROS. Seeking for ROS robotics software engineers[^275]. | 2018 |
+| [Diamond Age](http://www.didiglobal.com) | Construction robotics company. Automating new home construction through robotics. Hiring engineers with experience in ROS ([Robotics & Software Engineer](https://www.wayup.com/i-j-Diamond-Age-3D-568376825315740/)). | 2018 |
 | [DiDi](http://www.didiglobal.com) | Offer a wide range of app-based services across Asia-Pacific, Latin America and Africa, as well as in Central Asia and Russia, including ride hailing, taxi hailing, chauffeur, hitch and other forms of shared mobility as well as auto solutions, food delivery, intra-city freight and financial services.  (see [`ros_`]())[^]. | 2012 |
 | [Diligent Robotics](http://diligentrobots.com/) | Create collaborative robots that can learn from humans and have social intelligence, mobile manipulation, and human-guided learning capabilities. Moxi, a hospital robot assistant that assists clinical employees with administrative work, is the company's first product. The robot uses machine learning for object recognition and grasping, as well as navigation software based on ROS [^109]. | 2017 |
 | [DIMAAG-AI](https://dimaag-ai.com/) | Help businesses deploy self-healing AI solutions to transform the way they operate to improve efficiency, quality, and revenue. Hiring ROS engineers ([Autonomous vehicle software engineering lead](https://delivers.ai/jobs.html)). | 2018 | 
@@ -1237,7 +1237,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^258]: https://www.linkedin.com/jobs/view/3296824847
 [^259]: https://www.linkedin.com/feed/update/urn:li:activity:6983427857892933633/
 [^260]: https://www.linkedin.com/jobs/view/3303184619
-[^261]: https://deka.applytojob.com/apply/EccMbHhXzC/Robotics-Software-Build-Engineer?source=Our%20Career%20Page%20Widget
 [^262]: https://www.linkedin.com/jobs/view/3293827403/
 [^263]: https://www.linkedin.com/jobs/view/3302556445/
 [^264]: https://hexagondownloads.blob.core.windows.net/public/AutonomouStuff/wp-content/uploads/2018/09/Welcome_AutonomouStuff_Final.pdf
@@ -1250,7 +1249,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^272]: https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/
 [^273]: https://www.therobotreport.com/ford-ceo-gives-insight-into-argo-ais-shutdown/
 [^274]: https://www.linkedin.com/jobs/view/3328013334
-[^275]: https://www.linkedin.com/jobs/view/3328057814
 [^276]: https://www.linkedin.com/jobs/view/3178546296
 [^277]: https://www.linkedin.com/jobs/view/3347981895
 [^278]: https://www.linkedin.com/jobs/view/3348691229
