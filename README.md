@@ -191,14 +191,14 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Elephant Robotics](https://www.elephantrobotics.com/en/) | Design and production of robotics, development and applications of operating system and intelligent manufacturing services in industry, commerce, education, scientific research, home and etc. myCobot ROS2 package (see [`mycobot_ros2`](https://github.com/elephantrobotics/mycobot_ros2)). | 2016 |
 | [Elroy Air](http://elroyair.com) | Aerospace company that specializes in autonomous vertical takeoff and landing (VTOL) cargo drones. Hiring ROS engineers ([Software Engineer](https://startup.jobs/software-engineer-robotics-systems-elroy-air-3001732)). | 2016 | 
 | [Embark Trucks](http://embarktrucks.com/) | Develop self-driving truck [technology](https://embarktrucks.com/technology/) designed for freight and logistic services. ROS drivers (see [`embarktrucks`](https://github.com/embarktrucks)). | 2016 |
-| [Emlid](https://emlid.com/) | Make RTK GNSS[^58] receiver Reach, that provides centimeter accuracy for surveying and navigation. Reach comes with an app as a controller. General scheme of [ROS](https://docs.emlid.com/navio2/ros/) incorporated in Emlid Raspberry Pi OS. | 2014 | 
-| [Enabled Robotics](https://www.enabled-robotics.com/) | Autonomous mobile collaborative manipulators built with ROS and based on third party products. Built out of the robots from Universal Robots and Mobile Industrial Robots (both ROS-related).| 2016 |
+| [Emlid](https://emlid.com/) | Develop GNSS receivers suitable for land surveying, mapping, and navigation. General scheme of [ROS](https://docs.emlid.com/navio2/ros/) incorporated in Emlid Raspbian. | 2014 | 
+| [Enabled Robotics](https://www.enabled-robotics.com/) | Specializes in mobile manipulator robots that integrate mobile robots with robotic arms. The [ER-FLEX](https://www.enabled-robotics.com/erflex) is a collaborative mobile manipulator that comes with full [ROS](https://www.enabled-robotics.com/research) documentation. | 2016 |
 | [Energid](https://www.energid.com) | Solve robotics challenges by offering software, products, and service. Robotics software simulates and regulates kinematics and dynamics for many kinds of robotics applications, and its 3D machine vision software allows autonomy. ROS plugins and applications for use with a ROS enabled Energid Actin SDK (see [`ActinROS`](https://github.com/Energid/ActinROS))[^106]. | 2001 |
-| [Enova Robotics](https://www.enovarobotics.eu/) | Is a company specialized in mobile robot development and robotics R&D projects. Mini lab[^38] robot the education Robot. The Mini-Lab supports fully ROS packages and naming conventions(see [`Mini-Lab`](https://github.com/Enova-Robotics/Mini-Lab))[^39]. | 2014 |
+| [Enova Robotics](https://www.enovarobotics.eu/) | Is a company specialized in mobile robot development and robotics R&D projects. The code running [Mini Lab](https://www.enovarobotics.eu/other-products/) was based on the [Robotics Operating System (ROS)](https://emtechmena.com/enova-robotics-tunisian-robots-global-demand/). | 2014 |
 | [ENWAY](http://www.enway.ai) | Build the software platform to turn manual utility machines into autonomous utility machines. opencv_apps provides various nodes that run internally OpenCV's functionalities and publish the result as ROS topics for ENWAY (see [`enwaytech/opencv_apps`](https://github.com/enwaytech/opencv_apps)). | 2017 | 
 | [eProsima](https://www.eprosima.com/) | Provides insight to develop distributed systems recommending the right DDS middleware products and supporting in all the stages of the development. ROS drivers for eProsima middleware (see [`eProsima`](https://github.com/eProsima))[^105]. | 2005 |
 | [Ericsson](https://www.ericsson.com/en) | Provide a range of products and services for the telecoms industry, including network equipment, software, and professional services. The company use robots in its research and development division or in its manufacturing processes.. The ROS Middleware (rmw) Interface(see [`ros2-rmw`](https://github.com/Ericsson/ros2-rmw)). | 1876 |
-| [Erthos](https://www.erthos.com/) | Solar power deployment platform. Behind “ErthBot” autonomous robot which cruises over and cleans the solar panels in our solar fields. Leverage ROS in the robot. Seeking for ROS expertise[^216][^217] | 2019 |
+| [Erthos](https://www.erthos.com/) | Solar power deployment platform. Behind “ErthBot” autonomous robot which cruises over and cleans the solar panels in our solar fields. Hiring ROS engineers ([Senior Software Engineer](https://discourse.ros.org/t/pre-ipo-solar-energy-company-erthos-seeking-senior-software-engineer-c-python-ros/26224)). | 2019 |
 | [eSOL](http://www.esol.com) | Is a company in the fields of embedded systems and Industrial IoT that seeks to create a safer and better connected society using its innovative computer technologies. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 1975 | 
 | [Eternal Robotics](https://eternalrobotics.com/) | Provide robotics engineering, optimization, software, and product development services. Hiring ROS engineers ([Embedded Firmware Engineer](https://eternalrobotics.com/portfolio/firmware-engineer/)). | 2019 | 
 | [Eurogroep](http://www.eurogroep.com) | Industrial corporation devoted to the development, production, and sales of high-tech industrial equipment. Hiring ROS engineers ([ROS Programmeur](https://www.eurogroep.com/jobs/rosprogrammeur)). | 2005 |
@@ -1026,8 +1026,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^35]: https://www.softbankrobotics.com/emea/en/pepper
 [^36]: https://www.softbankrobotics.com/emea/en/nao
 [^37]: https://www.motoman.com/en-us/products/robots/industrial
-[^38]: https://enovarobotics.eu/minilab/
-[^39]: http://wiki.ros.org/Mini-Lab/Tutorials
 [^40]: https://www.ubiquityrobotics.com/products-magni/
 [^41]: https://www.rethinkrobotics.com/sawyer
 [^42]: https://www.rapyuta-robotics.com/rapyuta-io/
@@ -1046,7 +1044,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^55]: https://www.zmp.co.jp/products/robocar-innovation
 [^56]: https://luxai.com/humanoid-social-robot-for-research-and-teaching/
 [^57]: https://crosswing.com/nav2/
-[^58]: https://emlid.com/reachrs2/
 [^59]: https://niryo.com/robotic-solution-education-research/ned2-robotics-arm/
 [^60]: http://www.xaxxon.com/oculusprime/slamnavigator
 [^61]: https://rt-net.jp/works_category/allproducts/
@@ -1198,8 +1195,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^212]: Wyca relies on micro-ROS for autonomous indoor robot “Elodie” https://www.eprosima.com/index.php/company-all/news/206-wyca-relies-on-microros-for-robot-elodie
 [^213]: Robot Software Engineer at Relay Robotics https://discourse.ros.org/t/robot-software-engineer-at-relay-robotics/27244
 [^214]: MOV.AI and Lanner Electronics Announce Fully Integrated Platform Powered by NVIDIA Isaac ROS to Accelerate Robotics Development and Improve Operational Efficiency in Industrial Environments https://www.lannerinc.com/news-and-events/latest-news/mov-ai-and-lanner-electronics-announce-fully-integrated-platform-powered-by-nvidia-isaac-ros-to-accelerate-robotics-development-and-improve-operational-efficiency-in-industrial-environments
-[^216]: Pre-IPO Solar Energy Company (Erthos) Seeking Senior Software Engineer (C++ / Python / ROS) https://discourse.ros.org/t/pre-ipo-solar-energy-company-erthos-seeking-senior-software-engineer-c-python-ros/26224
-[^217]: Erthos - Lead Software Engineer https://www.linkedin.com/jobs/view/3117153546/
 [^218]: Introducing the Kria Robotics Stack for Hardware Acceleration in Robotics
  https://www.xilinx.com/about/blogs/adaptable-advantage-blog/2021/introducing-the-kria-robotics-stack-for-hardware-acceleration-in.html
 [^219]: AMD to Acquire Xilinx, Creating the Industry’s High Performance Computing Leader https://ir.amd.com/news-events/press-releases/detail/977/amd-to-acquire-xilinx-creating-the-industrys-high
