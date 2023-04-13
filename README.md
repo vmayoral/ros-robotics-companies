@@ -387,11 +387,11 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [NakAI Robotics](https://nakairobotics.com) | Develop cutting-edge vessels' Grooming and Inspection solutions. ROS Perception package (depthimage_to_laserscan) that converts a depth image to a laser scan for use with navigation and localization for NakAI Robotics (see [`nakai-robotics/depthimage_to_laserscan`](https://github.com/nakai-robotics/depthimage_to_laserscan)). | 2021 | 
 | [Nala Robotics](https://nalarobotics.com/) | Design custom kitchen robots that work in a fully automated way. (Nala)[https://nalarobotics.com/nala-chef-one-point-one-product.html) is the first AI and ML-powered multi-cuisine Chef. Being AI-powered, Nala Chef, a customizable robot that uses machine learning to cook infinite recipes. Hiring ROS engineers ([ROS Engineer](https://www.localwalkins.com/job/ros-engineer)). | 2017 | 
 | [Nature Robots](https://naturerobots.com/) | Nature Robots promotes regenerative and ecological agriculture through AI and robotics by supporting perennial and diverse farming systems through innovative software and hardware solutions. Maintaining the software stack for navigation on meshes (see [`mesh_navigation`](https://github.com/naturerobots/mesh_navigation) and [`mesh_tools`](https://github.com/naturerobots/mesh_tools)).| 2022 |
-| [Nauticus Robotics](https://nauticusrobotics.com/) | Developer of ocean robots, autonomy software and services delivered to the ocean industries. Using ROS and hiring ROS talent[^297]. | 2014 |
-| [NavVis](https://www.navvis.com) | SLAM-based mobile mapping solutions to generate high-quality data and digital twins. They use ROS and PCL in their engineering teams[^258]| 2013 |
+| [Nauticus Robotics](https://nauticusrobotics.com/) | Developer of ocean robots, autonomy software and services delivered to the ocean industries. Hiring ROS engineers ([Software Project Manager](https://discourse.ros.org/t/software-project-manager-at-nauticus-robotics/27388)). | 2014 |
+| [NavVis](https://www.navvis.com) | SLAM-based mobile mapping solutions to generate high-quality data and digital twins. Hiring engineers with experience in ROS ([Advanced Software Engineer Visual SLAM](https://www.glassdoor.com.hk/job-listing/advanced-software-engineer-visual-slam-fmd-navvis-JV_IC4990924_KO0,42_KE43,49.htm?jl=1008576029184&pos=126&ao=1136043&s=58&guid=000001877acc9e5b98ae3c30146d4898&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_9f8a7cb8&cb=1681392443993&jobListingId=1008576029184&jrtk=3-0-1gttcp7kak63v801-1gttcp7l4g2dh800-d6b6e4317c0d981a-&ctt=1681392478936)). | 2013 |
 | [NCS Group](https://www.ncs.co/en-sg/) | Provide services and solutions in consulting, digital, technology and cybersecurity. [Robotmanager](https://www.robotmanager.com/) is a product developed by NCS Robotics, provides a highly extensible approach that allows robot vendors and developers to easily integrate 3rd-party business apps and support more A.I. capabilities.Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 1981 | 
 | [Nearthlab](http://nearthlab.com) | Provide autonomous drone solutions powered by proprietary deep-learning algorithms for safety inspection in the wind and renewable energy sectors. ros2 vision_opencv contains packages to interface ROS 2 with OpenCV for Nearthlab (see [`nearthlab/vision_opencv`](https://github.com/nearthlab/vision_opencv)). | 2015 | 
-|[Neo Cybernetica](https://www.neocybernetica.com/) | Next-gen cybernetics start-up backed by a few top-tier investors. Our R&D blends robotics, machine learning, and high-fidelity simulation. We aim to push the boundaries of what intelligent systems are capable of achieving both autonomously and in collaboration with humans. Uses ROS 2 to communicate through its pipeline from AI Agent to simulated and real world robot bodies in conjunction with NVIDIA Isaac Sim. | 2021 |
+|[Neo Cybernetica](https://www.neocybernetica.com/) | Develop cybernetics technology to improve the capability of artificially intelligent systems. Hiring ROS engineers ([Embedded Systems Engineer](https://discourse.ros.org/t/embedded-systems-engineer-robotics-neo-cybernetica/27582)). | 2021 |
 | [Neobotix GmbH](https://www.neobotix-robots.com/homepage) | Design, develop and manufacture mobile robot, robot arms and omnidirectional robots, with full ROS support can support industrial requirements. ROS and ROS-2 packages (see [`neobotix`](https://github.com/neobotix))[^87]. | 2010 |
 | [Nerian Vision](https://nerian.com) | Manufacturer of 3D depth sensors for robotics, automation, surveillance and other industries. ROS driver for Nerian Vision sensors (see [`nerian-vision`](https://github.com/nerian-vision)). | 2015 |
 | [NEURA Robotics](https://neura-robotics.com/) | Develop robotics solutions for various applications. The company provides innovative robotics technology, such as autonomous robots and smart machines, for industries such as logistics, agriculture, and construction. ROS used for industrial use cases. Participation in ROS-Industrial Conference 2022. | 2019 | 
@@ -405,9 +405,9 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Nokia Bell Labs](https://www.bell-labs.com/) | Is the industrial research arm of Nokia, having invented many of the foundational technologies that underpin information and communications networks and all digital devices and systems. Sponsor of the [ROScon](https://roscon.ros.org/2022/). | 1925 | 
 | [NOKOV Motion Capture](https://www.nokov.com/) | Company focused on optical 3D motion capture system in researching, developing, manufacturing and relative technical services. ROS nodes for working with the Nokov motion capture system (see [`mocap_nokov`](https://github.com/NOKOV-MOCAP/mocap_nokov)). | 2015 |
 | [Noosware BV](http://noosware.com/) | Offer business and cloud intelligence solutions through open collaborative online environments. A few ROS-based tutorials using the NOOS Cloud Robotics platform (see [`NoosWare/noos_ros_tutorials`](https://github.com/NoosWare/noos_ros_tutorials)). | 2018 | 
-| [Novium](https://www.noviumdesigns.com/) | Robotics engineering firm serving the space and automation industries. Using ROS throughout their engineering services. Actively seeking for ROS talent[^251] | 2021 |
-| [NTT Disruption](https://disruption.global.ntt) | NTT Disruption is an information technology company dedicated to technical support and enterprise software design. They are known to purchase the social robot Jibo's IP[^194] and to use ROS to program it for various demonstrators and healthcare applications | 2019 |
-| [Numurus](https://numurus.com/) | Behind NEPI, a turnkey, ROS-based Linux software distribution for Edge AI and robotic applications. | 2017 |
+| [Novium](https://www.noviumdesigns.com/) | Robotics engineering firm serving the space and automation industries. Hiring engineers with experience in ROS ([Robotics Software Engineer](https://www.linkedin.com/jobs/view/robotics-software-engineer-at-novium-ltd-3556755267/)). | 2021 |
+| [NTT Disruption](https://disruption.global.ntt) | NTT Disruption is an information technology company dedicated to technical support and enterprise software design. Using [ROS](https://www.linkedin.com/in/jorgegd/?locale=en_US) in their robotics engineering activities. | 2019 |
+| [Numurus](https://numurus.com/) | Help companies reduce the cost, time, and risks of bringing Edge-AI and robotic solutions to market. Numurus partners with PickNik to deliver web user interfaces for [ROS](https://numurus.com/press/numurus-partners-with-picknik-for-ros-ui-development/)-based systems. | 2017 |
 | [Nuro](https://www.nuro.ai/) | Custom electric autonomous vehicles for home deliveries. Looking for ROS talent in their vehicle infrastructure team[^257]| 2016 |
 | [NVIDIA](https://www.nvidia.com/es-es/autonomous-machines/robotics/) | Silicon vendor. High-performance GPU-based computing including CPU and GPU solutions. Jetson family of products.| 1993 |
 | [NXP Semiconductors](http://www.nxp.com) | Provide technology solutions targeting the automotive, industrial & IoT, mobile, and communication infrastructure markets. Produce secure connectivity solutions for embedded applications. Installing [ROS](https://community.nxp.com/t5/i-MX-Processors-Knowledge-Base/Installing-ROS-Indigo-on-NXP-i-MX-boards/ta-p/1126471) on NXP i.MX boards  | 2006 | 
@@ -1172,7 +1172,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^191]: SROS2: Usable Cyber Security Tools for ROS 2 https://aliasrobotics.com/files/SROS2.pdf
 [^192]: Cybersecurity in the ROS 2 communication middleware, targeting the top 6 DDS implementations https://discourse.ros.org/t/cybersecurity-in-the-ros-2-communication-middleware-targeting-the-top-6-dds-implementations/23254
 [^193]: DroneDeploy acquires robotics software startup Rocos https://www.therobotreport.com/dronedeploy-acquires-robotics-software-startu-rocos
-[^194]: Jibo social robot assets acquired by NTT Disruption https://www.therobotreport.com/jibo-social-robot-assets-acquired-ntt-disruption/
 [^195]: Drone Solutions Engineer Planck Aerosystems  https://www.suasnews.com/2020/07/drone-solutions-engineer-planck-aerosystems/
 [^196]: AeroVironment Acquires Planck Aerosystems, a Leading Provider of Advanced Unmanned Aircraft Navigation Solutions  https://www.businesswire.com/news/home/20220815005622/en/AeroVironment-Acquires-Planck-Aerosystems-a-Leading-Provider-of-Advanced-Unmanned-Aircraft-Navigation-Solutions
 [^197]: telemax EVO RECCE https://www.avinc.com/images/uploads/product_docs/telemax_EVO_Recce_Datasheet_v10_220418.pdf
@@ -1219,12 +1218,10 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^247]: https://github.com/DLu/ros_map/pull/218
 [^248]: https://www.linkedin.com/jobs/view/3291382311
 [^250]: https://www.linkedin.com/jobs/view/3295097708
-[^251]: https://www.linkedin.com/jobs/view/3280630467
 [^252]: Unbounded Robotics Closes Down https://www.therobotreport.com/unbounded-robotics-closes-down/
 [^255]: https://www.linkedin.com/jobs/view/3291923198/
 [^256]: https://www.linkedin.com/jobs/view/3227673058
 [^257]: https://www.linkedin.com/jobs/view/3219200169
-[^258]: https://www.linkedin.com/jobs/view/3296824847
 [^259]: https://www.linkedin.com/feed/update/urn:li:activity:6983427857892933633/
 [^260]: https://www.linkedin.com/jobs/view/3303184619
 [^262]: https://www.linkedin.com/jobs/view/3293827403/
@@ -1254,7 +1251,6 @@ Lists companies known to use the [ROS Perception stack](https://github.com/ros-p
 [^293]: eve autonomy launches Japan’s first unmanned transportation service using autonomous EV https://medium.com/tier-iv-tech-blog/eve-autonomy-launches-japans-first-unmanned-transportation-service-using-autonomous-ev-eve-d4ed20fa20e1
 [^294]: https://www.linkedin.com/jobs/view/3382008785
 [^296]: smark https://www.linkedin.com/jobs/view/3386057304
-[^297]: https://discourse.ros.org/t/software-project-manager-at-nauticus-robotics/27388
 [^298]: https://www.linkedin.com/jobs/view/3378140574
 [^299]: https://www.luxoft.com/pr/dxc-technology-completes-acquisition-of-leading-digital-innovator-luxoft/
 [^300]: https://news.accelerationrobotics.com/acceleration-robotics-expands-to-india-and-takes-over-technoyantra-to-grow-in-asia/
