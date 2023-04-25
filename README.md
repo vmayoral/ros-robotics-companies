@@ -730,9 +730,7 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [Aivot](https://www.aivot.com/) | Develop humanoid robots and use the manipulation stack to control its arms and hands for manipulation tasks (see [`AivotRobotics/moveit`](https://github.com/AivotRobotics/moveit)). | 2017 | 
 | [ASIMOV Robotics](http://www.asimovrobotics.com) | The company uses the manipulation stack in some of its robots to perform manipulation tasks (see [`asimov-robust/moveit`](https://github.com/asimov-robust/moveit)). | 2012 |
 | [AUBO Robotics](https://www.aubo-cobot.com/public/index3) | The company uses the ROS Manipulation stack (MoveIt) in the i3/i5/i7/i10 (see [`AuboRobot/aubo_robot`](https://github.com/AuboRobot/aubo_robot)). | 2013 |
-| [Barrett Technology](http://www.barrett.com) | The company uses the ROS Manipulation stack (MoveIt) in the [WAM](https://moveit.ros.org/robots/). | 1990 |
 | [Bastian Solutions](http://www.bastiansolutions.com) | The company uses the manipulation stack in a variety of projects aimed at creating automated material handling systems for its customers (see [`BastianSolutionsRandD/moveit`](https://github.com/BastianSolutionsRandD/moveit)). | 1952 |
-| [Boston Dynamics](bostondynamics.com) | The company uses the ROS Manipulation stack (MoveIt) in the Atlas (see [`moveit_robots/tree/kinetic-devel/atlas_v3_moveit_config`](https://github.com/ros-planning/moveit_robots/tree/kinetic-devel/atlas_v3_moveit_config)). | 1992 |
 | [Bowery Farming](http://boweryfarming.com) | The company employs the manipulation stack for governing its self-directed mobile robots that carry out a range of activities within the farming facility, including sowing seeds, supervising crop growth, and gathering crops at harvest time (see [`BoweryFarming/moveit`](https://github.com/BoweryFarming/moveit)). | 2015 | 
 | [Canvas](https://www.canvas.build/) | Uses ROS and Manipulation stack to build their robots (see [`Canvas-Construction/moveit`](https://github.com/Canvas-Construction/moveit)). | 2017 | 
 | [Comau](http://www.comau.com) | The company uses the ROS Manipulation stack (MoveIt) in the e.Do (see [`Comau/eDO_moveit`](https://github.com/Comau/eDO_moveit)). | 1973 | 
@@ -742,7 +740,6 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [Elephant Robotics](elephantrobotics.com/en/) | The company uses the ROS Manipulation stack (MoveIt) in the MyCobot (see [`elephantrobotics/mycobot_moveit`](https://github.com/elephantrobotics/mycobot_moveit)). | 2016 |
 | [Forssea Robotics](http://www.forssea-robotics.fr) | Uses ROS and Manipulation stack to build their robots (see [`forssea-robotics/moveit2`](https://github.com/forssea-robotics/moveit2)). | 2016 | 
 | [Franka Emika](http://www.franka.de) | The company uses the ROS Manipulation stack (MoveIt). Support for [ROS Control and MoveIt](https://frankaemika.github.io/docs/) (see [`frankaemika/franka_ros`](https://github.com/frankaemika/franka_ros)). | 2016 |
-| [F&P Robotics](http://www.fp-robotics.com) | The company uses the ROS Manipulation stack (MoveIt) in the [P-Rob 2R](https://moveit.ros.org/robots/). | 2014 |
 | [GITAI](http://gitai.tech/) | Utilizes the manipulation stack to execute different operations including object recognition, grasping, manipulation, and motion planning.  (see [`GITAI/moveit`](https://github.com/GITAI/moveit)). | 2016 | 
 | [Griffin](http://griffin.ethz.ch) | Uses ROS and Manipulation stack to build their robots (see [`Griffin-Focus-Project/moveit`](https://github.com/Griffin-Focus-Project/moveit)). | 2020 |
 | [Han's Robot](https://www.hansrobot.net/index) | The company uses the ROS Manipulation stack (MoveIt) in the Elfin3/Elfin5/Elfin5I/Elfin10/Elfin15 (see [`hans-robot/elfin_robot`](https://github.com/hans-robot/elfin_robot)). | 2017 |
@@ -751,13 +748,11 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [Intermodalics](http://www.intermodalics.eu) | Intermodalics uses the Manipulation stack to enable their clients robots to perform complex motions efficiently and safely (see [`Intermodalics/moveit`](https://github.com/Intermodalics/moveit)). | 2010 |
 | [IR4 PTY LTD](http://www.ir4.com.au) | The manipulation stack allows them to develop motion planning and control solutions for their robotic systems (see [`sssmanufacturing/moveit-1`](https://github.com/sssmanufacturing/moveit-1)). | 2016 | 
 | [Iron Ox](https://ironox.com/) | Uses the ROS Manipulation stack to control the movement and positioning of their robotic arms (see [`iron-ox/moveit`](https://github.com/iron-ox/moveit)). | 2015 |
-| [KAWADA ROBOTICS CORPORATION](http://www.kawadarobot.co.jp/) | The company uses the ROS Manipulation stack (MoveIt) in the [NEXTAGE](https://moveit.ros.org/robots/). | 2013 |
 | [Kawasaki](https://global.kawasaki.com) | The company uses the ROS Manipulation stack (MoveIt) in the Duaro (see [`Kawasaki-Robotics/khi_robot`](https://github.com/Kawasaki-Robotics/khi_robot)). | 1896 |
 | [Kinova Robotics](https://assistive.kinovarobotics.com/) | The company uses the ROS Manipulation stack (MoveIt) in the Jaco/Jaco2/MICO/Movo (see [`Kinovarobotics/kinova-ros/tree/master/kinova_moveit`](https://github.com/Kinovarobotics/kinova-ros/tree/master/kinova_moveit)). | 2006 | 
 | [KiQ Robotics](https://kiq-robotics.co.jp/) | Uses ROS and Manipulation stack to build their robots (see [`KiQ-Robotics/moveit2`](https://github.com/KiQ-Robotics/moveit2)). | 2019 | 
 | [MindHome](http://www.mindhome.co) | Uses the ROS Manipulation stack to enable their robotic arm to pick up and manipulate objects in a home environment (see [`MindHome-Inc/moveit`](https://github.com/MindHome-Inc/moveit)). | 2018 | 
 | [Miso Robotics](https://misorobotics.com) | Use the MoveIt2 stack as part of their software infrastructure to control the motion of their robotic systems and to perform complex tasks such as preparing food items in a commercial kitchen (see [`MisoRobotics/moveit2`](https://github.com/MisoRobotics/moveit2)). | 2016 |
-| [Mitsubishi Electric](http://www.mitsubishielectric.com/) | The company uses the ROS Manipulation stack (MoveIt) in the [RV2F/RV4FLM](https://moveit.ros.org/robots/). | 1921 |
 | [NEUROMEKA](http://www.neuromeka.com) | The company uses the ROS Manipulation stack (MoveIt) in the Indy 5/Indy 7/Indy RP/Indy RP2 (see [`neuromeka-robotics/ros_indy`](https://github.com/neuromeka-robotics/ros_indy)). | 2013 |
 | [Niryo](https://niryo.com) | The company uses the ROS Manipulation stack (MoveIt) in the Niryo One (see [`NiryoRobotics/niryo_one_ros`](https://github.com/NiryoRobotics/niryo_one_ros)). | 2016 | 
 | [NXTGEN Robotics](http://www.nxtgenindustries.com.au) | Uses the ROS Manipulation stack to control and plan the motion of their robotic systems (see [`NXTGEN-Robotics/moveit`](https://github.com/NXTGEN-Robotics/moveit)). | 2019 |
@@ -774,7 +769,6 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [Rope Robotics](http://www.roperobotics.com) | Uses the Manipulation stack for motion planning and control of their industrial robots (see [`Rope-Robotics/moveit`](https://github.com/Rope-Robotics/moveit)). | 2016 | 
 | [RT Corporation](https://rt-net.jp/) | The company uses the ROS Manipulation stack (MoveIt) in the Crane-X7 (see [`rt-net/crane_x7_ros`](https://github.com/rt-net/crane_x7_ros)). | 2005 | 
 | [RUVU](https://ruvu.nl/) | Uses the Manipulation stack for motion planning and control of their autonomous mobile robots (see [`ruvu/moveit`](https://github.com/ruvu/moveit)). | 2017 |
-| [SCHUNK](https://www.schunk.com) | The company uses the ROS Manipulation stack (MoveIt) in the 7-DOF (https://moveit.ros.org/robots/). | 1945 | 
 | [SESTO Robotics](https://www.sestorobotics.com) | SESTO Robotics leverages MoveIt for its Autonomous Mobile Robot (AMR) platform, called SESTO Magnus. The robot uses the ROS Manipulation stack to perform autonomous navigation, obstacle avoidance, and manipulation tasks (see [`hopetechnik/moveit`](https://github.com/hopetechnik/moveit)). | 2017 | 
 | [Shadow Robot](https://www.shadowrobot.com/) | The company uses the ROS Manipulation stack (MoveIt) (see [`shadow-robot/moveit`](https://github.com/shadow-robot/moveit)). | 1987 | 
 | [Spinbotics](http://spinbotics.com) | Use this software to develop and implement robotic applications that require motion planning and control (see [`Spinbotics-s-r-o/moveit2`](https://github.com/Spinbotics-s-r-o/moveit2)). | 2020 | 
@@ -785,7 +779,6 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [UFACTORY](http://www.ufactory.cc) | The company uses the ROS Manipulation stack (MoveIt) in the xArm 5/ xArm 6/xArm 7 (see [`xArm-Developer/xarm_ros`](https://github.com/xArm-Developer/xarm_ros)). | 2013 |
 | [Unibap AB](https://unibap.com) | The Manipulation stack is utilized by Unibap AB to perform the motion planning and control of industrial robots (see [`Unibap/moveit`](https://github.com/Unibap/moveit)). | 2013 |
 | [Universal Robots](https://www.universal-robots.com/) | The company uses the ROS Manipulation stack (MoveIt) in the UR3/UR5/UR10 (see [`ros-industrial/universal_robot`](https://github.com/ros-industrial/universal_robot)). | 2005 |
-| [Yaskawa Motoman](https://www.motoman.com) | The company uses the ROS Manipulation stack (MoveIt) in the MH12/MH50/MH12/SIA5D/SIA20/SIA10D (see [`ros-industrial/motoman_experimental`](https://github.com/ros-industrial/motoman_experimental)). | 1989 | 
 <!-- !end-manipulation! -->
 
 
