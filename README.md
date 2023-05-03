@@ -457,7 +457,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [RoboTech Vision](https://robotechvision.com/) | Develop advanced vision systems for robots. The company's primary focus is on developing and integrating cutting-edge computer vision technology into robots. ROS2 drivers for RoboTech Vision (see [`robotechvision`](https://github.com/robotechvision)). | 2013 | 
 | [Robotic Solutions, Inc.](http://www.roboticsolutionsinc.com) | A robotic systems integrator that specializes in Milling applications. ROS used for industrial use cases. Participation in ROS-Industrial Conference 2022. | 2004 | 
 | [Robotican](https://robotican.net/) | Develop cutting-edge robotics technology systems. Offer modular robotics systems for research applications, solutions building robotics and mechatronics systems. ROS Drivers for communicating with Robotican products (see [`robotican`](https://github.com/robotican)). | 2011 |
-| [Robotiq](http://robotiq.com/) | Manufacture flexible, plug & play robotic grippers and sensors. [ROS](https://blog.robotiq.com/bid/72049/ROS-Package-for-Robotiq-Grippers) package for Robotiq grippers. | 2008 |
+| [Robotiq](http://robotiq.com/) | Manufacture flexible, plug & play robotic grippers and sensors. There exists ROS community packages for Robotiq's technology (see [`robotiq`](https://github.com/ros-industrial/robotiq)). Also, Robotiq's team seems to be providing ROS support for their technology [^314]. | 2008 |
 | [ROBOTIS](https://robotis.us/) | Developer of smart servos, industrial actuators, manipulators, open-source humanoid platforms, and educational robotic kits, like the [Turtlebot3](https://robotis.us/turtlebot-3/) (see [`turtlebot3`](https://github.com/ROBOTIS-GIT/turtlebot3)). The ROS packages for the different robots (see [`ROBOTIS-GIT`](https://github.com/ROBOTIS-GIT)). | 1999 |
 | [Rope Robotics](http://www.roperobotics.com) | Develop robotic solutions for inspection, maintenance, and repair of offshore energy installations such as wind turbines, oil rigs, and subsea pipelines. ROS drivers for Rope Robotics (see [`Rope-Robotics`](https://github.com/Rope-Robotics)). | 2016 | 
 | [ROSEN](https://www.rosen-group.com/global.html) | Public safety cutting-edge solutions in all areas of the integrity process chain. Using ROS and ROS 2 for developing robotic systems. Looking for ROS talent [^283] | 1981 |
@@ -1174,6 +1174,7 @@ ros2-embarks-on-a-mission-to-the-bottom-of-lake-tahoe/17139/1
 [^311]: ZED ROS2 Wrapper - https://github.com/stereolabs/zed-ros2-wrapper
 [^312]: ZED ROS Examples - https://github.com/stereolabs/zed-ros-examples
 [^313]: ZED ROS2 Examples - https://github.com/stereolabs/zed-ros2-examples
+[^314]: Robotiq offering ROS support for their technology https://dof.robotiq.com/discussion/2634/how-to-communicate-to-the-robotiq-2f-85-gripper-via-ros-melodic-and-ur10e
 [^315]: NODE's view on ROSification https://node-robotics.com/nodes-view-on-rosification/
 [^316]: https://blueatlasrobotics.com/
 [^330]: https://iot-automotive.news/aeva-introduces-aeries-ii-the-worlds-first-4d-lidar-with-camera-level-resolution/
