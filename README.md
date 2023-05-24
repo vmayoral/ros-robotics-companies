@@ -723,7 +723,7 @@ Lists companies known to use the ROS Navigation stack and ROS 2's Nav2 framework
 | [RoboTech Vision](https://robotechvision.com/) | Nav2 is a key component of RoboTech Vision's autonomous navigation capabilities, as it provides a robust and flexible solution for robot navigation, motion planning, and environment monitoring (see [`robotechvision/navigation2`](https://github.com/robotechvision/navigation2)). | 2013 | 
 | [ROBOTIS](https://robotis.us/) | Uses the Nav2 stack as the main navigation platform for their robots (see [`ROBOTIS-SYS/navigation2`](https://github.com/ROBOTIS-SYS/navigation2)). | 1999 |
 | [Rover Robotics](https://roverrobotics.com/) | Packages for running an OpenRover robot on ROS2 (see [`RoverRobotics-archive/roverrobotics_ros2`](https://github.com/RoverRobotics-archive/roverrobotics_ros2)). | 2018 |
-| [RUVU](https://ruvu.nl/) | https://dietopro.com/. ROS Navigation stack (see [`ruvu/navigation`](https://github.com/ruvu/navigation)). | 2017 |
+| [RUVU](https://ruvu.nl/) | ROS Navigation stack (see [`ruvu/navigation`](https://github.com/ruvu/navigation)). | 2017 |
 | [Seasony](https://www.seasony.io/) | Uses ROS and Navigation stack to build their robots (see [`Robots`](https://navigation.ros.org/about/robots.html)). | 2018 | 
 | [Skarv Technologies](http://www.skarvtech.com) | Uses the Nav2 Stack to provide navigation solutions for their customers' robots (see [`skarvtech/navigation2`](https://github.com/skarvtech/navigation2)). | 2019 | 
 | [SLAMcore](http://www.slamcore.com) | SLAMcore uses the Nav2 Stack to provide real-time 6 DOF simultaneous localization and mapping (SLAM) solutions for robotics and autonomous systems (see [`slamcore/navigation2`](https://github.com/slamcore/navigation2)). | 2016 |
