@@ -2,7 +2,7 @@
 
 # ROS Robotics Companies
 
-[**Active companies**](#active-companies) ┃ [<ins>Acquired, closed or inactive</ins>](#companies-acquired-closed-or-inactive) | [Contribute](#contribute) | [`navigation` users](#navigation)
+[**Active companies**](#active-companies) ┃ [<ins>Acquired, closed or inactive</ins>](#companies-acquired-closed-or-inactive) | [Contribute](#contribute) | [`navigation` users](#navigation) | [`manipulation` users](#manipulation) | [`perception` users](#perception)
 
 A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products, to offer services or who ship ROS with or as part of their product(s). Ordered alphabetically. See [criteria](#criteria) for more details.
 
