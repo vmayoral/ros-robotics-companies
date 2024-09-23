@@ -725,6 +725,7 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [ZMP](https://www.zmp.co.jp/en) | Provide robot infrastructure,  autonomous vehicles[^53], automotive technology and sensing technology[^54]. ROS Nodes for RoboCar[^55] (see [`robocar110_ros`](https://github.com/zmp/robocar110_ros)). | 2001 | 
 | [Zoox](https://www.zoox.com/) | Develop a fully autonomous fleet specifically designed to be driven by AI. Hiring engineers with experience in ROS ([Senior Staff Software Engineer - SLAM](https://zoox.com/careers/3629518d-d10a-4fe9-a797-58120c439349)). | 2014 | 
 | [ZVISION](http://www.zvision.xyz) | Provide [automotive-grade](http://www.zvision.xyz/en/Solution/index.aspx) solid-state LiDAR solution for autonomous driving applications. ROS driver for ZVISION Lidar (see [`zvision_ros_driver`](https://github.com/ZVISION-lidar/zvision_ros_driver)). | 2017 |
+| [3Laws](https://www.3laws.io) | Develops a universal dynamic safety system for autonomous and human piloted robots. Offers a ROS version of `3Laws Supervisor` (see [`3Laws`](https://github.com/3LawsRobotics/3laws)). | 2022 |
 | [4am Robotics](https://www.4am-robotics.com/en/) | Develop mobile robot assistants designed to assist humans in their daily lives. Hiring engineers with experience in ROS ([Softwareentwickler ROS Mobile Robotik (m/w/d)](https://www.linkedin.com/jobs/view/3724898600)). | 2022 | 
 <!-- !end-companies! -->
 
