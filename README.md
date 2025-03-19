@@ -759,6 +759,8 @@ A public list of companies that are known to use the Robot Operating System (ROS
 | [Xilinx](https://www.xilinx.com) | Adaptive computing leader. Creator of the FPGA. Various robotics silicon solutions featuring CPUs and FPGAs. Kria SOMs robotics strategy was built around ROS 2[^218] | 1984 | **Acquired** (2021, AMD, $35 billion[^219]) |
 | [5D Robotics](https://web.archive.org/web/20180319195556/https://5drobotics.com/) | 5D Robotics is a software company that accelerates human productivity and safety in an evolving, dynamic world. | 2009 | **Acquired** (2018, Humatics) |
 | [6 River Systems](https://6river.com/) | Manufacturer of autonomous mobile robots (AMRs) built with ROS, artificial intelligence and operational experience. Through the use of robotics[^4], they make warehouses more efficient[^5].| 2015 | **Acquired** (2019, Shopify, 450M USD) |
+| **[OORB](https://www.oorb.io)**<br>[LinkedIn](https://www.linkedin.com/company/oorb/) | An AI-driven cloud platform using ROS/ROS 2 for rapid robotics development—covering design, code generation, simulation, and hardware integration. Partially open-source (with a SaaS subscription for “OORB Studio”) and known for hardware kits like “Robodog” (a modular quadruped) and “RALL-p” (an industrial all-terrain robot). OORB focuses on universities and labs first, helping students and researchers go from concept to working robot prototypes quickly. | 2023 |
+
 <!-- !end-acquired! -->
 
 
