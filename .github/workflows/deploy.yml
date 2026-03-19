@@ -1,0 +1,67 @@
+name: Build and Deploy ROS Companies DB
+
+on:
+  # Run on every push to main
+  push:
+    branches: [main]
+  # Run daily to pick up upstream README changes
+  schedule:
+    - cron: "0 6 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Parse README and build database
+        run: python scripts/parse_companies.py --output site/companies.db
+
+      - name: Export database to JSON
+        run: |
+          python - <<'EOF'
+          import sqlite3, json
+          con = sqlite3.connect("site/companies.db")
+          con.row_factory = sqlite3.Row
+          rows = [dict(r) for r in con.execute("SELECT * FROM companies ORDER BY name")]
+          json.dump(rows, open("site/companies.json", "w"))
+          print(f"Exported {len(rows)} companies to site/companies.json")
+          EOF
+
+      - name: Copy frontend to site directory
+        run: cp frontend/index.html site/index.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
