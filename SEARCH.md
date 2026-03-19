@@ -44,7 +44,7 @@ EOF
 cd site
 python -m http.server 8080
 
-# open http://localhost:8080
+# open http://localhost:8080 in your browser
 ```
 
 ## Enabling on the forked repository
