@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>ROS Robotics Companies</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<style>
+  /* ── Reset & base ────────────────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #0a0e14;
+    --surface:   #111820;
+    --surface2:  #1a2332;
+    --border:    #1e2d40;
+    --accent:    #00d4ff;
+    --accent2:   #ff6b35;
+    --text:      #e2e8f0;
+    --muted:     #64748b;
+    --active-bg: #003344;
+    --inactive-bg:#1a1a2e;
+    --radius:    6px;
+    --mono:      'Space Mono', monospace;
+    --sans:      'DM Sans', sans-serif;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── Scanline overlay ────────────────────────────────────────── */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,212,255,0.012) 2px,
+      rgba(0,212,255,0.012) 4px
+    );
+    pointer-events: none;
+    z-index: 999;
+  }
+
+  /* ── Header ──────────────────────────────────────────────────── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 2.5rem 2rem 2rem;
+    background: linear-gradient(180deg, #0d1520 0%, var(--bg) 100%);
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::after {
+    content: 'ROS';
+    position: absolute;
+    right: -1rem;
+    top: -1.5rem;
+    font-family: var(--mono);
+    font-size: 9rem;
+    font-weight: 700;
+    color: rgba(0,212,255,0.04);
+    pointer-events: none;
+    user-select: none;
+    letter-spacing: -0.05em;
+  }
+
+  .header-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .logo-icon {
+    width: 36px;
+    height: 36px;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    animation: pulse 3s ease-in-out infinite;
+  }
+
+  .logo-icon svg { width: 18px; height: 18px; }
+
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(0,212,255,0.4); }
+    50%       { box-shadow: 0 0 0 8px rgba(0,212,255,0); }
+  }
+
+  h1 {
+    font-family: var(--mono);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: -0.02em;
+  }
+
+  h1 span { color: var(--accent); }
+
+  .tagline {
+    font-size: 0.875rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+    font-family: var(--mono);
+  }
+
+  /* ── Controls ────────────────────────────────────────────────── */
+  .controls {
+    max-width: 1100px;
+    margin: 1.75rem auto 0;
+    padding: 0 2rem;
+    display: grid;
+    grid-template-columns: 1fr auto auto auto;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .search-wrap {
+    position: relative;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 0.875rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    pointer-events: none;
+  }
+
+  input[type=search] {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 0.9375rem;
+    padding: 0.625rem 1rem 0.625rem 2.5rem;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    -webkit-appearance: none;
+  }
+
+  input[type=search]:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(0,212,255,0.12);
+  }
+
+  input[type=search]::placeholder { color: var(--muted); }
+
+  select {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 0.875rem;
+    padding: 0.625rem 2rem 0.625rem 0.875rem;
+    outline: none;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.625rem center;
+    transition: border-color 0.2s;
+  }
+
+  select:focus { border-color: var(--accent); outline: none; }
+
+  /* ── Stats bar ───────────────────────────────────────────────── */
+  .stats-bar {
+    max-width: 1100px;
+    margin: 1rem auto 0;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+
+  .stat { display: flex; align-items: center; gap: 0.4rem; }
+  .stat-value { color: var(--accent); font-weight: 700; }
+
+  #result-count { color: var(--text); }
+
+  .spinner {
+    display: none;
+    width: 14px;
+    height: 14px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.6s linear infinite;
+    margin-left: 0.5rem;
+  }
+
+  .spinner.active { display: inline-block; }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Main grid ───────────────────────────────────────────────── */
+  main {
+    max-width: 1100px;
+    margin: 1.5rem auto 4rem;
+    padding: 0 2rem;
+  }
+
+  #results {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+  }
+
+  /* ── Company card ────────────────────────────────────────────── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+    transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+    animation: fadeIn 0.25s ease both;
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4), 0 0 0 1px rgba(0,212,255,0.15);
+  }
+
+  .card.status-inactive { border-left: 3px solid var(--muted); opacity: 0.75; }
+  .card.status-active   { border-left: 3px solid var(--accent); }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .card-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+
+  .card-name {
+    font-family: var(--mono);
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+  }
+
+  .badge {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    flex-shrink: 0;
+    text-transform: uppercase;
+  }
+
+  .badge-active   { background: var(--active-bg);   color: var(--accent); border: 1px solid rgba(0,212,255,0.3); }
+  .badge-inactive { background: var(--inactive-bg); color: var(--muted);  border: 1px solid var(--border); }
+
+  .card-year {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+
+  .card-desc {
+    font-size: 0.8125rem;
+    color: #94a3b8;
+    line-height: 1.55;
+    flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-footer {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.25rem;
+    flex-wrap: wrap;
+  }
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.7rem;
+    font-family: var(--mono);
+    padding: 0.25rem 0.625rem;
+    border-radius: 99px;
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+
+  .pill:hover { background: var(--surface2); color: var(--text); border-color: var(--accent); }
+  .pill svg   { width: 11px; height: 11px; flex-shrink: 0; }
+
+  .pill-web    { color: var(--accent); border-color: rgba(0,212,255,0.25); }
+  .pill-github { color: #94a3b8; }
+
+  /* ── Empty / error states ────────────────────────────────────── */
+  .empty {
+    grid-column: 1/-1;
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 0.875rem;
+  }
+
+  .empty span { display: block; font-size: 2.5rem; margin-bottom: 0.75rem; }
+
+  /* ── Load more ───────────────────────────────────────────────── */
+  #load-more-wrap {
+    grid-column: 1/-1;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0 0;
+  }
+
+  #load-more {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    padding: 0.625rem 1.5rem;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+    display: none;
+  }
+
+  #load-more:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ── Footer ──────────────────────────────────────────────────── */
+  footer {
+    border-top: 1px solid var(--border);
+    text-align: center;
+    padding: 1.5rem 2rem;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  /* ── Responsive ──────────────────────────────────────────────── */
+  @media (max-width: 680px) {
+    .controls {
+      grid-template-columns: 1fr 1fr;
+    }
+    .search-wrap { grid-column: 1/-1; }
+    header { padding: 1.5rem 1rem 1rem; }
+    .controls, .stats-bar, main { padding-left: 1rem; padding-right: 1rem; }
+    header::after { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#00d4ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+        </svg>
+      </div>
+      <h1>ROS <span>Robotics</span> Companies</h1>
+    </div>
+    <p class="tagline">// companies using the Robot Operating System</p>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input type="search" id="search" placeholder="Search companies, products, technologies..." autocomplete="off" spellcheck="false"/>
+  </div>
+
+  <select id="filter-status">
+    <option value="">All statuses</option>
+    <option value="active">Active</option>
+    <option value="inactive">Acquired / Inactive</option>
+  </select>
+
+  <select id="filter-decade">
+    <option value="">Any era</option>
+    <option value="2020">2020s</option>
+    <option value="2010">2010s</option>
+    <option value="2000">2000s</option>
+    <option value="1990">1990s</option>
+    <option value="pre">Pre-1990</option>
+  </select>
+
+  <select id="sort-by">
+    <option value="name">A - Z</option>
+    <option value="year_asc">Oldest first</option>
+    <option value="year_desc">Newest first</option>
+  </select>
+</div>
+
+<div class="stats-bar">
+  <div class="stat">
+    <span>Showing</span>
+    <span class="stat-value" id="result-count">--</span>
+    <span>companies</span>
+    <span class="spinner" id="spinner"></span>
+  </div>
+  <div class="stat" id="total-stat" style="display:none">
+    <span>of</span>
+    <span class="stat-value" id="total-count">--</span>
+    <span>total</span>
+  </div>
+</div>
+
+<main>
+  <div id="results">
+    <div class="empty"><span>⟳</span>Loading companies...</div>
+  </div>
+  <div id="load-more-wrap">
+    <button id="load-more">Load more</button>
+  </div>
+</main>
+
+<footer>
+  Data sourced from
+  <a href="https://github.com/vmayoral/ros-robotics-companies" target="_blank" rel="noopener">
+    vmayoral/ros-robotics-companies
+  </a>
+  &mdash; updated daily via GitHub Actions
+</footer>
+
+<script>
+// ---------------------------------------------------------------------------
+// Configuration
+// ---------------------------------------------------------------------------
+// The frontend fetches companies.json, which is generated at CI time by
+// deploy.yml and served as a static file alongside this page.
+// For local testing: python scripts/parse_companies.py then open via
+// python -m http.server 8080 from the site/ directory.
+// ---------------------------------------------------------------------------
+const DATA_URL = 'companies.json';
+const PAGE     = 40;
+
+// ---------------------------------------------------------------------------
+// State
+// ---------------------------------------------------------------------------
+let allCompanies  = [];   // full local cache after first load
+let filtered      = [];   // after applying current filters
+let displayCount  = PAGE; // how many cards are rendered
+
+// ---------------------------------------------------------------------------
+// DOM refs
+// ---------------------------------------------------------------------------
+const searchEl   = document.getElementById('search');
+const statusEl   = document.getElementById('filter-status');
+const decadeEl   = document.getElementById('filter-decade');
+const sortEl     = document.getElementById('sort-by');
+const resultsEl  = document.getElementById('results');
+const countEl    = document.getElementById('result-count');
+const totalEl    = document.getElementById('total-count');
+const totalStat  = document.getElementById('total-stat');
+const spinner    = document.getElementById('spinner');
+const loadMoreBtn= document.getElementById('load-more');
+
+// ---------------------------------------------------------------------------
+// Fetch all companies once from static JSON (generated at CI time)
+// ---------------------------------------------------------------------------
+async function fetchAll() {
+  spinner.classList.add('active');
+  try {
+    const res  = await fetch(DATA_URL);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    allCompanies = await res.json();
+    totalEl.textContent = allCompanies.length;
+    totalStat.style.display = 'flex';
+  } catch (err) {
+    console.error(err);
+    resultsEl.innerHTML = `<div class="empty"><span>⚠</span>Could not load companies.json.<br>Make sure the file exists in the same directory as index.html.</div>`;
+  } finally {
+    spinner.classList.remove('active');
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Filter + sort
+// ---------------------------------------------------------------------------
+function applyFilters() {
+  const q      = searchEl.value.trim().toLowerCase();
+  const status = statusEl.value;
+  const decade = decadeEl.value;
+  const sort   = sortEl.value;
+
+  filtered = allCompanies.filter(c => {
+    // full-text
+    if (q) {
+      const hay = `${c.name} ${c.description}`.toLowerCase();
+      const terms = q.split(/\s+/);
+      if (!terms.every(t => hay.includes(t))) return false;
+    }
+    // status
+    if (status) {
+      if (status === 'inactive' && c.status === 'active') return false;
+      if (status === 'active'   && c.status !== 'active') return false;
+    }
+    // decade
+    if (decade && c.year_founded) {
+      const y = c.year_founded;
+      if (decade === 'pre' && y >= 1990) return false;
+      if (decade !== 'pre') {
+        const d = parseInt(decade);
+        if (y < d || y >= d + 10) return false;
+      }
+    }
+    return true;
+  });
+
+  // sort
+  filtered.sort((a, b) => {
+    if (sort === 'year_asc')  return (a.year_founded || 9999) - (b.year_founded || 9999);
+    if (sort === 'year_desc') return (b.year_founded || 0)    - (a.year_founded || 0);
+    return (a.name || '').localeCompare(b.name || '');
+  });
+
+  displayCount = PAGE;
+  render();
+}
+
+// ---------------------------------------------------------------------------
+// Render cards
+// ---------------------------------------------------------------------------
+function escHtml(s) {
+  if (!s) return '';
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function highlight(text, q) {
+  if (!q || !text) return escHtml(text);
+  const safe = escHtml(text);
+  const terms = q.trim().split(/\s+/).filter(Boolean);
+  if (!terms.length) return safe;
+  const pattern = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+  return safe.replace(new RegExp(`(${pattern})`, 'gi'), '<mark style="background:rgba(0,212,255,0.25);color:inherit;border-radius:2px">$1</mark>');
+}
+
+function makeCard(c, q) {
+  const statusClass = c.status === 'active' ? 'status-active' : 'status-inactive';
+  const badge       = c.status === 'active'
+    ? '<span class="badge badge-active">active</span>'
+    : '<span class="badge badge-inactive">inactive</span>';
+  const year = c.year_founded ? `<span class="card-year">est. ${c.year_founded}</span>` : '';
+
+  const webPill = c.url
+    ? `<a class="pill pill-web" href="${escHtml(c.url)}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        Website
+      </a>`
+    : '';
+
+  const ghPill = c.github_url
+    ? `<a class="pill pill-github" href="${escHtml(c.github_url)}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
+        GitHub
+      </a>`
+    : '';
+
+  return `
+    <div class="card ${statusClass}">
+      <div class="card-header">
+        <span class="card-name">${highlight(c.name, q)}</span>
+        ${badge}
+      </div>
+      ${year}
+      <p class="card-desc">${highlight(c.description, q)}</p>
+      <div class="card-footer">
+        ${webPill}
+        ${ghPill}
+      </div>
+    </div>`;
+}
+
+function render() {
+  const q     = searchEl.value.trim().toLowerCase();
+  const slice = filtered.slice(0, displayCount);
+
+  countEl.textContent = filtered.length;
+
+  if (!filtered.length) {
+    resultsEl.innerHTML = `<div class="empty"><span>∅</span>No companies match your search.</div>`;
+    loadMoreBtn.style.display = 'none';
+    return;
+  }
+
+  // stagger animation delays
+  resultsEl.innerHTML = slice
+    .map((c, i) => {
+      const card = makeCard(c, q);
+      return card.replace('class="card', `class="card" style="animation-delay:${Math.min(i,20)*18}ms`);
+    })
+    .join('');
+
+  loadMoreBtn.style.display = displayCount < filtered.length ? 'block' : 'none';
+}
+
+// ---------------------------------------------------------------------------
+// Event wiring
+// ---------------------------------------------------------------------------
+let debounceTimer;
+function debounce(fn, ms) {
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(fn, ms);
+}
+
+searchEl.addEventListener('input',  () => debounce(applyFilters, 180));
+statusEl.addEventListener('change', applyFilters);
+decadeEl.addEventListener('change', applyFilters);
+sortEl.addEventListener('change',   applyFilters);
+
+loadMoreBtn.addEventListener('click', () => {
+  displayCount += PAGE;
+  render();
+});
+
+// ---------------------------------------------------------------------------
+// Bootstrap
+// ---------------------------------------------------------------------------
+(async () => {
+  await fetchAll();
+  applyFilters();
+})();
+</script>
+</body>
+</html>
